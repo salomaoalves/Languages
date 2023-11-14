@@ -67,25 +67,34 @@ T will be the values types (int, slice, struct)
 
 ### Function without parameters 
 it will return an element of type type
+
     func NAME() type{code}
 
 it will return two elements of type type1 and type2
+
     func NAME() (type1, type2) { code }
 
 ### Function with parameters
 variadic parameters of type type and will return nothing
+
     func NAME(var ...type) { code }
+
 2 normal parameters
+
     func NAME(var type, var2 type2) type { code }
 
 ### Anonymous function
 works inside main (runtime)
+
     func(par) { code } ()
+
 assignment to a variable
+
     var := func(par) { code }; var()
 
 ### Function that returns another function
 the return must contain the function
+
     func NAME() func() { code }
 
 ### Function that receives as parameter another function
