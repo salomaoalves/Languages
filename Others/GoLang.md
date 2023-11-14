@@ -2,14 +2,14 @@
 1. [Loops and Conditions](#loops-and-conditions)
 2. [Structs](#structs)
 3. [Data Type](#data-types)
-4. [Functions] (#functions)
-5. [Interface] (#interface)
+4. [Functions](#functions)
+5. [Interface](#interface)
 
 ## Loops and Conditions
 
     for  i := 1 ; i < N ; i++ {           for var1 < var2 {
-        Statement                                               var1--   // or var2++
-    }                                                 }
+        Statement                             var1--   // or var2++
+    }                                     }
 
     for _ , v  :=  range {   // range can be array, slice or map
         Statement  
@@ -22,8 +22,8 @@
 
     switch  {                           switch  var {
     case var == smt :                   case smt : 
-        Statement                                   Statement
-    }                                       }
+        Statement                           Statement
+    }                                   }
 
         
 
