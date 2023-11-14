@@ -1,3 +1,10 @@
+# Table of Contents
+1. [Loops and Conditions](#loops-and-conditions)
+2. [Structs](#structs)
+3. [Data Type](#data-types)
+4. [Functions] (#functions)
+5. [Interface] (#interface)
+
 ## Loops and Conditions
 
     for  i := 1 ; i < N ; i++ {           for var1 < var2 {
