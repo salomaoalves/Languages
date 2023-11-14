@@ -1,21 +1,21 @@
 ## Loops and Conditions
 
-    for  i := 1 ;  i < N ;  i++ {               for var1 < var2 {
-        Statement                                   var1--   // or var2++
-    }                                           }
+    **for**  i := 1 **;** i < N **;** i++ {           **for** var1 < var2 {
+        Statement                                               var1--   // or var2++
+    }                                                 }
 
-    for _ , v  :=  range {   // range can be array, slice or map
-    Statement  
+    **for** _ , v  :=  range {   // range can be array, slice or map
+        Statement  
     }
 
 
-    if cond  {
+    **if cond {**
         Statement
     }
 
-    switch  {                               switch  var {
-        case var == smt :                       case smt : 
-        Statement                               Statement
+    **switch**  {                           **switch**  var {
+    **case** var == smt **:**                   **case** smt **:** 
+        Statement                                   Statement
     }                                       }
 
         
@@ -30,7 +30,7 @@
 ## Structs
 
 ### General declaration
-    type NAME struct { 
+    type NAME **struct** { 
         atr1 type
         atr2 type
     }
@@ -63,7 +63,7 @@ T will be the values types (int, slice, struct)
 ## Functions
 
 ### Default
-    func (receiver) identifier (parameters) (returns) { code }
+    **func (**receiver**)** identifier **(**parameters**) (**returns**) {** code **}**
 
 ### Function without parameters 
 it will return an element of type type
@@ -93,6 +93,6 @@ the return must contain the function
 
 ## Interface
 ### Default
-    type NAME interface { code }
+    type NAME **interface** { code }
 ### Every struct that has the area method belongs to the figure interface
-    type figure interface { area() }
+    type figure **interface** { area() }
