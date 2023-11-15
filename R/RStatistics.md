@@ -21,17 +21,17 @@ Contingency Table
     table(df$col1, df$col2)
 
 
-Proportions of a Freq Table
+Proportions of a Frequency Table
 
     prop.table(freqTable)
 
 
-Proportions of a Cont Table
+Proportions of a Contingency Table
 
     prop.table(contTable)
 
 
-Freq Table Margins
+Frequency Table Margins
 
     margin.table( df|table, 1|2 ) # the total sum; 1 for row, 2 for cols
 
@@ -83,22 +83,23 @@ Percentile
 
 
 ## Association and Correlation
-Parameters ‘params’: can be ‘vector1, vector2’ OR ‘df’ OR ‘table’
+*Parameters ‘params’: can be ‘vector1, vector2’ OR ‘df’ OR ‘table’*
+
 Chi-Squared
 
     chisq.test( params )
 
-Conti Coeff.
+Contingency Coeff.
 
-    ContCoef( params ) - package ‘DescTools’
+    ContCoef( params ) # package ‘DescTools’
 
 Phi Coeff.
 
-    Phi( params ) - package ‘DescTools’
+    Phi( params ) # package ‘DescTools’
 
 Cramer’s Coeff.
 
-    CramerV( params ) - package ‘DescTools’
+    CramerV( params ) # package ‘DescTools’
 
 Correlation Coef.
 
