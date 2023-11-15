@@ -11,7 +11,7 @@
 10. [Graphics](#graphics)
 
 
-*Lexical Scope determines where but not when to look for variable values*
+*Lexical Scope determines where but not when to look for variable values*\
 *R looks for variables when the function is executed, not when the function is created*
 
 ## Markdown
@@ -26,7 +26,8 @@ Initiate with:
     ```{r setup, include=FALSE}
     knitr::opts_chunk$set(echo = TRUE)```
 
-Write some code
+Write some code:
+
     ```{r block_name}
     # load data
     df <- read.csv("credit_dataset.csv", header = TRUE, sep = ",")
@@ -64,7 +65,7 @@ Package
 
 ### Date type
 built-in type, stored as the number of days since January 1, 1970\
-do not handle time, only date\
+do not handle time, only date
 
     as.Date(dateStr, currentFormat=’%Y-%m-%d’) # Character to Date
     as.character(dates)  #  Date to Character
@@ -76,7 +77,7 @@ do not handle time, only date\
 ### Package ‘chron’
 handle date and time, but not time zones\
 store date as the number of days since January 1, 1970\
-store time as fractional os the day\
+store time as fractional os the day
 
     chron( dates=dates, times=times, format=c(‘y-m-d’, ‘h:m:s’) )
 
@@ -95,7 +96,7 @@ POSIXlt store date/time as a list with elements for second, minute, hour, day, m
     structure( c(1127056501,1104295502), class=c(‘POSIXlt’, ‘POSIXct’) )  # From integer to POSIXlt/ct
     strptime('16/Oct/2005:07:51:00', format='%d/%b/%Y:%H:%M:%S', tz=’PDT’) # Inputting dates
 
-![image](img/rDate.png)
+![image](./img/rDate.png)
 
 ## Data Types
     is.type(var) # check data
@@ -120,35 +121,40 @@ Use *matrix(c(), nrow, ncol)* to create a **matrix**; *diag( c() )* to create a 
 Use *factor(c())* to create a **factor**, categorize data. *levels()* show the factor levels, and can be an argument in *factor();* can be ordered or not.\
 
 ## Operators
-Arithmetic\
- > +   addition         *  product	     %/%  integer division\
- > -    subtraction     /  division              ^ or **  exponent\
- > %%  modulus remainder from division
+Arithmetic
 
-Assignment\
- > ->  or  <-\
- > ->>  or  <<-  # global assigner - used inside functions
+    %/%  integer division      +   addition          *  product
+    /  division              ^ or **  exponent       -   subtraction
+    %%  modulus remainder from division
 
-Comparison\
- > ==  equal	 >  greater than	    >=  greater than or equal to\
- > !=  not equal	<  less than	                <=  less than or equal to
+Assignment
 
-Logical\
- > &  element-wise logical AND    # True if both is true\
- > && logical AND operator        # True if both is true\
- > |  element-wise logical OR     # True if one of than is true\
- > || logical OR operator         # True is one of than is true\
- > !  logical NOT                 # False if statement is true
+    ->  or  <-
+    ->>  or  <<-  # global assigner - used inside functions
 
-Miscellaneous\
- > 1:10  #  create a series of number in a seq\
- > %in%  #  find out if an element belong to a vector\
- > %*%   #  matrix multiplication
+Comparison
+
+    ==  equal	 >  greater than	    >=  greater than or equal to\
+    !=  not equal	<  less than	                <=  less than or equal to
+
+Logical
+
+    &  element-wise logical AND    # True if both is true\
+    && logical AND operator        # True if both is true\
+    |  element-wise logical OR     # True if one of than is true\
+    || logical OR operator         # True is one of than is true\
+    !  logical NOT                 # False if statement is true
+
+Miscellaneous
+
+    1:10  #  create a series of number in a seq\
+    %in%  #  find out if an element belong to a vector\
+    %*%   #  matrix multiplication
 
 
 ## OOP
 ### S3 Class
-Create a class using obj=list( attr1=Val1, attr2=Val2 ) OR using a constructor:
+Create a class using ```obj=list( attr1=Val1, attr2=Val2 )``` OR using a constructor:
 
     constructor <- function( attr1, attr2 ) {
         attr_list <- list(attribute1=attr1, attribute2=attr2)
@@ -164,7 +170,7 @@ To set a method do:
     }
 
 ### S4 Class
-Defined using setClass( ‘ClassName’, slots=list(attr=val) ).\
+Defined using ```setClass( ‘ClassName’, slots=list(attr=val) )```.\
 To create a new object, do:
 
     obj=new( ‘ClassName’, slots=list(attr=val) )
@@ -217,7 +223,7 @@ Function
 
 
 ## DataFrame Functions
-use single brackets [ ] (use index), double brackets [[ ]] or $ (last both use column name) to access columns - for multiple columns, use  [[ c( ‘ColName1’, ‘ColName5’, … ) ]] \
+use single brackets [ ] (use index), double brackets [[ ]] or $ (last both use column name) to access columns, for multiple columns, use  [[ c( ‘ColName1’, ‘ColName5’, … ) ]] \
 to access rows and columns, use single brackets [ , ] with index
 
 ### In line dataframe
@@ -227,15 +233,12 @@ to access rows and columns, use single brackets [ , ] with index
 row.name: when the n_row is equal to n_col, so the function thinks the the first column is a list of column name
 
 ### Load Local Data
-From a csv files
+From a csv files *- can also be ‘read.csv2()’ | ‘fread()’ | ‘read_csv()’*\
+row.names: same as above
 
     df <- read.csv("<file_path>", sep="separator", header=T|F, row.names=NULL) 
 
-*can also be ‘read.csv2()’ | ‘fread()’ | ‘read_csv()’*\
-row.names: same as above
-
-From a xlsx files\
-from package “readxl”
+From a xlsx files *- from package “readxl”*
 
     df <- read_excel("<file_path>", sheet=SheetName|SheetNumb)
 
@@ -266,7 +269,7 @@ conditional with the columns of the df
     summary(df, maxsum=Int)
       maxsum: numb of levels showed to factor
 
- > Factor Type: length, class and mode
+ > Factor Type: length, class and mode\
  > Number Type: min, Q1, median, mean, Q3 and max
 
 ### Family Apply
@@ -318,37 +321,32 @@ Rename a column
 
     rename(new_name = old_name)
 
-Data selection 
-
-    select(...) # select and rename variables in a data frame
-
+Data selection\
 … variables the will be select\
 can use :, !, &, |, starts/ends_with(), contains() to select
+
+    select(...) # select and rename variables in a data frame
 
 Data filter
 
     filter(cond) # better in ungrouped data
 
-Grouped Data
+Grouped Data\
+…: variables to (un)group by\
+.add=T will add the group, =F will delete the existing ones
 
     group_by(..., .add=F) # create grouping
     ungroup(...) # removes grouping
 
-…: variables to (un)group by\
-.add=T will add the group, =F will delete the existing ones\
-
 Change the ordering of the rows
-
-    arrange(..., .by_group=F) 
 
 … variables to ordering\
 use desc(col) to be descending\
 use .by_group=T in order to group by them
 
+    arrange(..., .by_group=F) 
+
 Summary Functions - Statistics
-
-    summarise(colName = statisFuncs(col)) 
-
 create a col for each statistic measure (below) you want\
  > count(col) - count numb of row in each group defined by col\
  > n() & n_distinct() & top_n() -- numb of rows & numb of uniques & top n vals\
@@ -358,13 +356,17 @@ create a col for each statistic measure (below) you want\
  > first(col) & last(col) & nth(col,n) - first & last & nth value\
  > any & all (na.rm=F) - if any/all values (they’re logical) are true\
 
+    summarise(colName = statisFuncs(col)) 
+
 Join Data Frames\
- >   “JOIN      (df1, df2, by=”colKey”) - df1 and df2 has colKey\
- >   Operation”  (df1, df2, by=NULL, suffix=c(“key.df1”,“key.df2”))\
-**Join Operation**:\ 
- > left_join    -    right_join    -    inner_join
- > full_join    -    semi_join    -    anti_join
- > union - intersect - setdiff - setequal (df1, df2)
+  *“JOIN      (df1, df2, by=”colKey”) - df1 and df2 has colKey*\
+  *Operation”  (df1, df2, by=NULL, suffix=c(“key.df1”,“key.df2”))*
+
+**Join Operation**:
+
+    left_join    -    right_join    -    inner_join
+    full_join    -    semi_join    -    anti_join
+    union - intersect - setdiff - setequal (df1, df2)
 
 Create a Data Sample
 
@@ -380,8 +382,7 @@ Check if a data belongs to an object, i. g., vector, matrix
 
 
 ### tidyr - Data Reshape
-Convert wide format to long format
-
+#### Convert wide format to long format
     gather(data, keyCol, valueCol, sourceCol, factor_key=TRUE) 
 
 data: data object in wide format\
@@ -391,8 +392,7 @@ sourceCol: data columns that contain the values use in valueCol\
 factor_key: treat key column as a factor\
 OUTPUT: data object in long format
 
-Convert long format to wide format
-
+#### Convert long format to wide format
     spread(data, keyCol, valueCol)
 
 data: data object in long format\
