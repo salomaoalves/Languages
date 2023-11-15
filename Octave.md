@@ -383,6 +383,7 @@ can use break and continue
 
 ### WHILE 
 Will run while a condition is true
+
 can use break and continue
 
     while(condition)
@@ -391,6 +392,7 @@ can use break and continue
 
 ### DO-UNTIL
 It’ll run at least one time
+
 can use break and continue
 
     do
@@ -428,9 +430,7 @@ can use break and continue
     function(var =) funcName(arg1, ..., argN),
         commands
     end;
-var = is used to return the var
-is a file, and end with .m, like script files
-more than one independent func in a file, it must be a script file
+*var =* is used to return the result
 
 ## Data Manipulation
 parameters in italic are optionals
@@ -465,7 +465,9 @@ parameters in italic are optionals
     : round(x)   %return the integer nearest to x
     : roundb(x)  %return the integer nearest to x - if there are two nearest integers, return the even one
 
-### Array Operations - valid for Vectors and Matrices
+### Array Operations
+valid for Vectors and Matrices
+
     : cat(dim, a1, a2, …, aN)  %return the concatenation of N-D array objects along dimension dim
     : horzcat(a1, a2, …, aN)   %return the concatenation of N-D array objects along dimension 2
     : vertcat(a1, a2, …, aN)   %return the concatenation of N-D array objects along dimension 1
@@ -475,19 +477,19 @@ parameters in italic are optionals
     : isfinite(a)  %return a logical array which is true where the elements of x are finite values and false if not
     : fliplr(a)    %flip array left to right - return a copy of x with the order of the columns reversed
     : flipud(a)    %flip array upside down - return a copy of x with the order of the rows reversed
-    : sort(a, dim, mode)    %return x arranged along dimension dim in mode order - ascend or descend
-    : issorted(a, mode)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
-    : sum(a, dim)        %sum of elements along dimension dim
-    : prod(a, dim)       %product of elements along dimension dim
-    : sumsum(a, dim)     %cumulative sum of elements along dimension dim
-    : cumprod(a, dim)    %cumulative product of elements along dimension dim
-    : sumsq(a, dim)      %sum of squares of elements along dimension dim
-    : max(a, dim)        %find maximum values
-    : min(a, dim)        %find minimum values in the array x
-    : cummax(a, dim)     %return the cumulative maximum values along dimension dim
-    : cummin(a, dim)     %return the cumulative minimum values along dimension dim
-    : dot(a1, a2, dim)   %compute the dot product of two vectors
-    : cross(a1, a2, dim) %compute the vector cross product of two 3-dimensional vectors x and y
+    : sort(a, dim, _mode_)    %return x arranged along dimension dim in mode order - ascend or descend
+    : issorted(a, _mode_)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
+    : sum(a, _dim_)        %sum of elements along dimension dim
+    : prod(a, _dim_)       %product of elements along dimension dim
+    : sumsum(a, _dim_)     %cumulative sum of elements along dimension dim
+    : cumprod(a, _dim_)    %cumulative product of elements along dimension dim
+    : sumsq(a, _dim_)      %sum of squares of elements along dimension dim
+    : max(a, _dim_)        %find maximum values
+    : min(a, _dim_)        %find minimum values in the array x
+    : cummax(a, _dim_)     %return the cumulative maximum values along dimension dim
+    : cummin(a, _dim_)     %return the cumulative minimum values along dimension dim
+    : dot(a1, a2, _dim_)   %compute the dot product of two vectors
+    : cross(a1, a2, _dim_) %compute the vector cross product of two 3-dimensional vectors x and y
 
 ### Vector Operations
     : any(v)       %return True when any element of a vector is nonzero
