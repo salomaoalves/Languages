@@ -96,7 +96,7 @@ POSIXlt store date/time as a list with elements for second, minute, hour, day, m
     structure( c(1127056501,1104295502), class=c(‘POSIXlt’, ‘POSIXct’) )  # From integer to POSIXlt/ct
     strptime('16/Oct/2005:07:51:00', format='%d/%b/%Y:%H:%M:%S', tz=’PDT’) # Inputting dates
 
-![image](./img/rDate.png)
+![image](./Languages/img/rDate.png)
 
 ## Data Types
     is.type(var) # check data
@@ -223,7 +223,7 @@ Function
 
 
 ## DataFrame Functions
-use single brackets [ ] (use index), double brackets [[ ]] or $ (last both use column name) to access columns, for multiple columns, use  [[ c( ‘ColName1’, ‘ColName5’, … ) ]] \
+use single brackets [ ] (use index), double brackets [[ ]] or $ (last both use column name) to access columns; for multiple columns, use  [[ c( ‘ColName1’, ‘ColName5’, … ) ]] \
 to access rows and columns, use single brackets [ , ] with index
 
 ### In line dataframe
@@ -355,9 +355,8 @@ create a col for each statistic measure (below) you want\
 
 #### Join Data Frames
   *“JOIN      (df1, df2, by=”colKey”) - df1 and df2 has colKey*\
-  *Operation”  (df1, df2, by=NULL, suffix=c(“key.df1”,“key.df2”))*
-
-**Join Operation**:
+  *Operation”  (df1, df2, by=NULL, suffix=c(“key.df1”,“key.df2”))*\
+Join Operation:
 
     left_join    -    right_join    -    inner_join
     full_join    -    semi_join    -    anti_join
@@ -369,7 +368,9 @@ create a col for each statistic measure (below) you want\
 #### Creates a Histogram
     hist(df$col)
 
-#### Check if a data belongs to an object, i. g., vector, matrix
+#### Check if a data belongs to an object
+i. g., vector, matrix
+
     data %in% obj
 
 
@@ -437,8 +438,9 @@ Saving graphics
     plot(...)
     dev.off()
 
-ggPlot2\
-is based on the Grammar of Graphics\
+### ggPlot2
+is based on the Grammar of Graphics
+
 Boxplot
 
     boxplot(data=df, col1 ~ col2, main="Title", ylab="", xlab="", horizontal=F, col=c("blue", "red"))
