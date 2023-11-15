@@ -13,11 +13,8 @@ Mapping values in a column - i. e., change the value from smth1 to smth2 - packa
 
 Replace values - replace the pattern by the replacement, in a given column
 
-    str_replace_all(df$col, pattern, replacement) - all pattern
-    str_replace(df$col, pattern, replacement) - first pattern
-
-Duplicate
-	.
+    str_replace_all(df$col, pattern, replacement) # all pattern
+    str_replace(df$col, pattern, replacement) # first pattern
 
 Drop unnecessary rows - the lines that have some element with value NA
 
@@ -47,7 +44,8 @@ package "psych"
 ### Chi square test
 to categorical variables
 the lower the probability the greater the correlation
-    CrossTable(x = df$col, y = df$col, chisq = TRUE) - package "gmodels"
+
+    CrossTable(x = df$col, y = df$col, chisq = TRUE) # package "gmodels"
     chisq.test(x = df$col, y = df$col)
 
 ### Contingency table
@@ -59,7 +57,7 @@ package "gmodels"
 ## Feature Selection
 ### Packet "randomForest"
     mod <- randomForest(y~x, data=df, ntree=n, nodesize=n1, importance=T)
-    varImpPlot(mod) - it’ll plot the most important one
+    varImpPlot(mod) # it’ll plot the most important one
 
 ### Packet "randomForest" and "caret"
     run.feature.selection <- function(num.iters=20, feature.vars, class.var){
@@ -69,10 +67,10 @@ package "gmodels"
       return(results.rfe) 
     }
 
-    // execute the feature selection
+    # execute the feature selection
     rfe.results <- run.feature.selection(feature.vars = x, class.var = y) 
 
-    // plot the most important columns
+    # plot the most important columns
     varImpPlot(mod) 
 
 ### Packet "olsrr"
@@ -104,7 +102,7 @@ Stepwise AIC regression
 ## Data Split
 Using a function - packet “caret”
 
-  index <- createDataPartition(df$FieldY, p=n, list=FALSE) %n is the training data percentage (0.7)
+    index <- createDataPartition(df$FieldY, p=n, list=FALSE) # n is the training data percentage (0.7)
 
 Using custom variables 
 
@@ -119,11 +117,11 @@ Getting the data
 ## Machine Learning
 ### Linear Regression - packet “caret”
     mod <- lm(y ~ x, data = df)
-    bptest(mod) - Test Heteroskedasticity using Breusch-Pagan Test
-    vif(mod) - Test multicollinearity using Variance Inflation Factor
+    bptest(mod) # Test Heteroskedasticity using Breusch-Pagan Test
+    vif(mod) # Test multicollinearity using Variance Inflation Factor
 
 ### GLM w/ Lasso or Elasticnet Reg
-    glmnet(x, y, alpha) - alpha=1 is lasso penalty, and, =0 is ridge penalty
+    glmnet(x, y, alpha) # alpha=1 is lasso penalty, and, =0 is ridge penalty
 
 ### Logistic Regression - packet “caret”
 family is a description of the error distribution and link func - others families
@@ -141,6 +139,7 @@ family is a description of the error distribution and link func - others familie
 
 ### SVM - package “e1071”
 type can be: ‘C-classification’, ‘nu-classification’, ‘eps-regression’, ‘nu-regression’
+
 kernel can be: ‘radial’, ‘linear’, ‘sigmoid’
 
     mod <- svm(y ~ x, data = training, type = 'C-classification', kernel = 'radial')
@@ -161,6 +160,5 @@ kernel can be: ‘radial’, ‘linear’, ‘sigmoid’
     mod$coefficients
 
 ### Model Bootstrap - package “car”
-varImp(mod) - important variables
-
+    varImp(mod) # important variablesS
     bootCase(mod, function(x) predict(x,testing[,-y],B=999))
