@@ -11,60 +11,103 @@
 
 
 ## Qualitative Stats
-### Frequency Table
-        table(df$col)
+Frequency Table
 
-### Contingency Table
-        table(df$col1, df$col2)
+    table(df$col)
 
-### Proportions of a Freq Table
-        prop.table(freqTable)
 
-### Proportions of a Cont Table
-        prop.table(contTable)
+Contingency Table
 
-### Freq Table Margins
-        margin.table( df|table, 1|2 ) - the total sum; 1 for row, 2 for cols
+    table(df$col1, df$col2)
 
-### Cross Tabulation
-        CrossTable() - can tests factor indep
+
+Proportions of a Freq Table
+
+    prop.table(freqTable)
+
+
+Proportions of a Cont Table
+
+    prop.table(contTable)
+
+
+Freq Table Margins
+
+    margin.table( df|table, 1|2 ) - the total sum; 1 for row, 2 for cols
+
+
+Cross Tabulation
+
+    CrossTable() - can tests factor indep
+
 
 
 ## Quantitative Stats
-### Arithmetic Average
+Arithmetic Average
+
     mean(vector)
-### Median
+
+Median
+
     median(vector)
-### Mode
+
+Mode
+
     mode <- function(data) { vector = table( as.vector(data) )
   			       	   names(vector)[ vector == max(vector) ] }
-### Standard Deviation
+
+Standard Deviation
+
     sd(vector)
-### Variance
+
+Variance
+
     var(vector)
-### Coefficient of variation
+
+Coefficient of variation
+
     CV = ( sd/avg ) * 100
-### Quartile
+
+Quartile
+
     quantile(vector)
-### Interquartile Range
+
+Interquartile Range
+
     IQR( vector, na.rm=FALSE )
-### Percentile
+
+Percentile
+
     quantile( vector, c(.X) ) #percentil X
+
+
 
 ## Association and Correlation
 Parameters ‘params’: can be ‘vector1, vector2’ OR ‘df’ OR ‘table’
-### Chi-Squared
+Chi-Squared
+
     chisq.test( params )
-### Conti Coeff.
+
+Conti Coeff.
+
     ContCoef( params ) - package ‘DescTools’
-### Phi Coeff.
+
+Phi Coeff.
+
     Phi( params ) - package ‘DescTools’
-### Cramer’s Coeff.
+
+Cramer’s Coeff.
+
     CramerV( params ) - package ‘DescTools’
-### Correlation Coef.
+
+Correlation Coef.
+
     cor( params, method=“person” ) # or ”kendal”,”spearman”
-### Covariance
+
+Covariance
+
     cov( params, method=“person” ) # or ”kendal”,”spearman”
+
 
 
 ## Combinatorial
@@ -78,121 +121,126 @@ Simple Combination
 
 
 
+## Distribution
 
-Distribution
-
-Asymmetry Method
+### Asymmetry Method
 both from package ‘e1071 or moments’
+
 Skewness Coefficient
-sk = skewness(vector)
-sk0: symmetric data
-sk<0: negative asymmetry
-sk>0: positive asymmetry
+
+    sk = skewness(vector)
+    sk0: symmetric data
+    sk<0: negative asymmetry
+    sk>0: positive asymmetry
+
 Kurtosis Coefficient
-ck = kurtosis(vector)
-ck0: normal distribution
-ck<0: tail lighter and peek lower than normal
-ck>0: tail heavier and peek higher than normal
+
+    ck = kurtosis(vector)
+    ck0: normal distribution
+    ck<0: tail lighter and peek lower than normal
+    ck>0: tail heavier and peek higher than normal
 
 
-Distributions
+### Distributions
 Can prefix a value to the function name, the values are:
-d: get probability density values - PDF
-p: get cumulative probabilities - CDF
-q: get quantum values
-r:  get random numbers from the distribution
+ > d: get probability density values - PDF
+ > p: get cumulative probabilities - CDF
+ > q: get quantum values
+ > r:  get random numbers from the distribution
 
-Bernoulli Dist.
-dbern(x, prob, log = FALSE)
-pbern(q, prob, lower.tail = TRUE, log.p = FALSE)
-qbern(p, prob, lower.tail = TRUE, log.p = FALSE)
-rbern(n, prob)
+#### Bernoulli Dist.
+    dbern(x, prob, log = FALSE)
+    pbern(q, prob, lower.tail = TRUE, log.p = FALSE)
+    qbern(p, prob, lower.tail = TRUE, log.p = FALSE)
+    rbern(n, prob)
+
 x, q: vector of values that you’re search for
+
 p: vector of probabilities  ---   n: numb of observations to return
+
 prob: probability of success in each trial - 0<prob<=1
+
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
+
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
+#### Geometric Dist.
+    dgeom(x, prob, log = FALSE)
+    pgeom(q, prob, lower.tail = TRUE, log.p = FALSE)
+    qgeom(p, prob, lower.tail = TRUE, log.p = FALSE)
+    rgeom(n, prob)
 
-
-
-Geometric Dist.
-dgeom(x, prob, log = FALSE)
-pgeom(q, prob, lower.tail = TRUE, log.p = FALSE)
-qgeom(p, prob, lower.tail = TRUE, log.p = FALSE)
-rgeom(n, prob)
 x, q: vector of values that you’re search for
+
 p: vector of probabilities  ---   n: numb of observations to return
+
 prob: probability of success in each trial - 0<prob<=1
+
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
+
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-Binomial Dist.
-dbinom(x, size, prob, log = FALSE)
-pbinom(q, size, prob, lower.tail = TRUE, log.p = FALSE)
-qbinom(p, size, prob, lower.tail = TRUE, log.p = FALSE)
-rbinom(n, size, prob)
-x, q: vector of values that you’re search for
-p: vector of probabilities  ---   n: numb of observations to return
-size: number of trials
-prob: probability of success on each trial
-log, log.p: logical; if TRUE, probabilities p are given as log(p)
-lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
+#### Binomial Dist.
+    dbinom(x, size, prob, log = FALSE)
+    pbinom(q, size, prob, lower.tail = TRUE, log.p = FALSE)
+    qbinom(p, size, prob, lower.tail = TRUE, log.p = FALSE)
+    rbinom(n, size, prob)
+x, q: vector of values that you’re search for\
+p: vector of probabilities  ---   n: numb of observations to return\
+size: number of trials\
+prob: probability of success on each trial\
+log, log.p: logical; if TRUE, probabilities p are given as log(p)\
+lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$\
 
-Poisson Dist.
-dpois(x, lambda, log = FALSE)
-ppois(q, lambda, lower.tail = TRUE, log.p = FALSE)
-qpois(p, lambda, lower.tail = TRUE, log.p = FALSE)
-rpois(n, lambda)
+#### Poisson Dist.
+    dpois(x, lambda, log = FALSE)
+    ppois(q, lambda, lower.tail = TRUE, log.p = FALSE)
+    qpois(p, lambda, lower.tail = TRUE, log.p = FALSE)
+    rpois(n, lambda)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 lambda: event rate per unit
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-Uniform Dist.
-dunif(x, min = 0, max = 1, log = FALSE)
-punif(q, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
-qunif(p, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
-runif(n, min = 0, max = 1)
+#### Uniform Dist.
+    dunif(x, min = 0, max = 1, log = FALSE)
+    punif(q, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
+    qunif(p, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
+    runif(n, min = 0, max = 1)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 min, max: lower/upper limits of the distribution - must be finite
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-Normal Dist.
-dnorm(x, mean = 0, sd = 1, log = FALSE)
-pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
-qnorm(p, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
-rnorm(n, mean = 0, sd = 1)
+#### Normal Dist.
+    dnorm(x, mean = 0, sd = 1, log = FALSE)
+    pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+    qnorm(p, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+    rnorm(n, mean = 0, sd = 1)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 lambda: event rate per unit
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-
-Exponential Dist.
-dexp(x, rate = 1, log = FALSE)
-pexp(q, rate = 1, lower.tail = TRUE, log.p = FALSE)
-qexp(p, rate = 1, lower.tail = TRUE, log.p = FALSE)
-rexp(n, rate = 1)
+#### Exponential Dist.
+    dexp(x, rate = 1, log = FALSE)
+    pexp(q, rate = 1, lower.tail = TRUE, log.p = FALSE)
+    qexp(p, rate = 1, lower.tail = TRUE, log.p = FALSE)
+    rexp(n, rate = 1)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 rate: vector of rates
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-
-Gamma Dist.
-dgamma(x, shape, rate = 1, scale = 1/rate, log = FALSE)
-pgamma(q, shape, rate = 1, scale = 1/rate, lower.tail = TRUE, log.p = FALSE)
-qgamma(p, shape, rate = 1, scale = 1/rate, lower.tail = TRUE, log.p = FALSE)
-rgamma(n, shape, rate = 1, scale = 1/rate)
+#### Gamma Dist.
+    dgamma(x, shape, rate = 1, scale = 1/rate, log = FALSE)
+    pgamma(q, shape, rate = 1, scale = 1/rate, lower.tail = TRUE, log.p = FALSE)
+    qgamma(p, shape, rate = 1, scale = 1/rate, lower.tail = TRUE, log.p = FALSE)
+    rgamma(n, shape, rate = 1, scale = 1/rate)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 shape, scale: must be positive
@@ -200,20 +248,11 @@ rate: an alternative way to specify the scale
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-
-
-
-
-
-
-
-
-Chi-Square Dist.
-dchisq(x, df, ncp = 0, log = FALSE)
-pchisq(q, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
-qchisq(p, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
-rchisq(n, df, ncp = 0)
+#### Chi-Square Dist.
+    dchisq(x, df, ncp = 0, log = FALSE)
+    pchisq(q, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+    qchisq(p, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+    rchisq(n, df, ncp = 0)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 df: degree of freedom
@@ -221,12 +260,11 @@ ncp: non-centrality parameter - non-negative
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-t Student Dist.
-dt(x, df, ncp, log = FALSE)
-pt(q, df, ncp, lower.tail = TRUE, log.p = FALSE)
-qt(p, df, ncp, lower.tail = TRUE, log.p = FALSE)
-rt(n, df, ncp)
+#### t Student Dist.
+    dt(x, df, ncp, log = FALSE)
+    pt(q, df, ncp, lower.tail = TRUE, log.p = FALSE)
+    qt(p, df, ncp, lower.tail = TRUE, log.p = FALSE)
+    rt(n, df, ncp)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 df: degree of freedom - maybe non-negative and >0
@@ -234,12 +272,11 @@ ncp: non-centrality parameter
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-F Dist.
-df(x, df1, df2, ncp, log = FALSE)
-pf(q, df1, df2, ncp, lower.tail = TRUE, log.p = FALSE)
-qf(p, df1, df2, ncp, lower.tail = TRUE, log.p = FALSE)
-rf(n, df1, df2, ncp)
+#### F Dist.
+    df(x, df1, df2, ncp, log = FALSE)
+    pf(q, df1, df2, ncp, lower.tail = TRUE, log.p = FALSE)
+    qf(p, df1, df2, ncp, lower.tail = TRUE, log.p = FALSE)
+    rf(n, df1, df2, ncp)
 x, q: vector of values that you’re search for
 p: vector of probabilities  ---   n: numb of observations to return
 df1, df2: degrees of freedom - Inf is allowed
@@ -247,8 +284,7 @@ ncp: non-centrality parameter
 log, log.p: logical; if TRUE, probabilities p are given as log(p)
 lower.tail: logical; if TRUE, probabilities are $P[X < x]$, otherwise, $P[X > x]$
 
-
-Sampling
+## Sampling
 Random Samples: sample(df, size, replace=FALSE, prob=NULL) - also for Permutations
 Systematic: df[S.SY( nrow(df), Kth ) - package “TeachingSamplig”
 Bootstrapping: bootstraps(df, times=n_samples)
