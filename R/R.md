@@ -307,46 +307,43 @@ function: any build-in or custom functions
 use df %>% action to execute two or more action in a sequential
 
 ### dplyr - Data Manipulation
-Data Resume
-
+#### Data Resume
     glimpse(df) # show more info than str
     str(df)
 
-Create a new column
-
+#### Create a new column
     mutate(newCol = statement) # preserves existing ones
     transmute(newCol = statement) # drops existing ones
 
-Rename a column
-
+#### Rename a column
     rename(new_name = old_name)
 
-Data selection\
+#### Data selection
+    select(...) # select and rename variables in a data frame
+
 … variables the will be select\
 can use :, !, &, |, starts/ends_with(), contains() to select
 
-    select(...) # select and rename variables in a data frame
-
-Data filter
-
+#### Data filter
     filter(cond) # better in ungrouped data
 
-Grouped Data\
-…: variables to (un)group by\
-.add=T will add the group, =F will delete the existing ones
-
+#### Grouped Data
     group_by(..., .add=F) # create grouping
     ungroup(...) # removes grouping
 
-Change the ordering of the rows
+…: variables to (un)group by\
+.add=T will add the group, =F will delete the existing ones
+
+#### Change the ordering of the rows
+    arrange(..., .by_group=F) 
 
 … variables to ordering\
 use desc(col) to be descending\
 use .by_group=T in order to group by them
 
-    arrange(..., .by_group=F) 
+#### Summary Functions - Statistics
+    summarise(colName = statisFuncs(col)) 
 
-Summary Functions - Statistics
 create a col for each statistic measure (below) you want\
  > count(col) - count numb of row in each group defined by col\
  > n() & n_distinct() & top_n() -- numb of rows & numb of uniques & top n vals\
@@ -356,9 +353,7 @@ create a col for each statistic measure (below) you want\
  > first(col) & last(col) & nth(col,n) - first & last & nth value\
  > any & all (na.rm=F) - if any/all values (they’re logical) are true\
 
-    summarise(colName = statisFuncs(col)) 
-
-Join Data Frames\
+#### Join Data Frames
   *“JOIN      (df1, df2, by=”colKey”) - df1 and df2 has colKey*\
   *Operation”  (df1, df2, by=NULL, suffix=c(“key.df1”,“key.df2”))*
 
@@ -368,16 +363,13 @@ Join Data Frames\
     full_join    -    semi_join    -    anti_join
     union - intersect - setdiff - setequal (df1, df2)
 
-Create a Data Sample
-
+#### Create a Data Sample
     sample_n(size=n)
 
-Creates a Histogram
-
+#### Creates a Histogram
     hist(df$col)
 
-Check if a data belongs to an object, i. g., vector, matrix
-
+#### Check if a data belongs to an object, i. g., vector, matrix
     data %in% obj
 
 
@@ -400,8 +392,7 @@ keyCol: the columns that contain the new column names\
 valueCol: the columns that contain the values\
 OUTPUT: data object in wide format
 
-Transform a single column into multiple columns
-
+#### Transform a single column into multiple columns
     separate(data, col, into, sep, remove=T, convert=F) 
 
 data: vector or df$col\
@@ -411,8 +402,7 @@ sep: separator between columns - can be a regular expression\
 remove: if T, remove input col from output\
 convert: if T, will run ‘type.convert()’ with ‘as.is=T’
 
-Paste together multiple columns into one
-
+#### Paste together multiple columns into one
     unite(data, …, col, sep=’_’, remove=TRUE, na.rm=FALSE) 
 
 data: a data frame\
@@ -424,8 +414,7 @@ na.rm: it T, missing values will be remove
 
 
 ### plyr -  Data Split, Apply and Combine
-For data frames
-
+#### For data frames
     ddply(data, variables, fun, …, parallel=FALSE)
 
 data: the data frame\
