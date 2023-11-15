@@ -477,19 +477,19 @@ valid for Vectors and Matrices
     : isfinite(a)  %return a logical array which is true where the elements of x are finite values and false if not
     : fliplr(a)    %flip array left to right - return a copy of x with the order of the columns reversed
     : flipud(a)    %flip array upside down - return a copy of x with the order of the rows reversed
-    : sort(a, dim, _mode_)    %return x arranged along dimension dim in mode order - ascend or descend
-    : issorted(a, _mode_)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
-    : sum(a, _dim_)        %sum of elements along dimension dim
-    : prod(a, _dim_)       %product of elements along dimension dim
-    : sumsum(a, _dim_)     %cumulative sum of elements along dimension dim
-    : cumprod(a, _dim_)    %cumulative product of elements along dimension dim
-    : sumsq(a, _dim_)      %sum of squares of elements along dimension dim
-    : max(a, _dim_)        %find maximum values
-    : min(a, _dim_)        %find minimum values in the array x
-    : cummax(a, _dim_)     %return the cumulative maximum values along dimension dim
-    : cummin(a, _dim_)     %return the cumulative minimum values along dimension dim
-    : dot(a1, a2, _dim_)   %compute the dot product of two vectors
-    : cross(a1, a2, _dim_) %compute the vector cross product of two 3-dimensional vectors x and y
+    : sort(a, dim, <ins>mode</ins>)    %return x arranged along dimension dim in mode order - ascend or descend
+    : issorted(a, <ins>mode</ins>)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
+    : sum(a, <ins>dim</ins>)        %sum of elements along dimension dim
+    : prod(a, <ins>dim</ins>)       %product of elements along dimension dim
+    : sumsum(a, <ins>dim</ins>)     %cumulative sum of elements along dimension dim
+    : cumprod(a, <ins>dim</ins>)    %cumulative product of elements along dimension dim
+    : sumsq(a, <ins>dim</ins>)      %sum of squares of elements along dimension dim
+    : max(a, <ins>dim</ins>)        %find maximum values
+    : min(a, <ins>dim</ins>)        %find minimum values in the array x
+    : cummax(a, <ins>dim</ins>)     %return the cumulative maximum values along dimension dim
+    : cummin(a, <ins>dim</ins>)     %return the cumulative minimum values along dimension dim
+    : dot(a1, a2, <ins>dim</ins>)   %compute the dot product of two vectors
+    : cross(a1, a2, <ins>dim</ins>) %compute the vector cross product of two 3-dimensional vectors x and y
 
 ### Vector Operations
     : any(v)       %return True when any element of a vector is nonzero
