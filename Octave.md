@@ -433,9 +433,10 @@ can use break and continue
 *var =* is used to return the result
 
 ## Data Manipulation
-parameters in italic are optionals
 
-### Arithmetic - work for real and complex scalar (x), vector or matrix arguments - x
+### Arithmetic
+work for real and complex scalar (x), vector or matrix arguments - x
+
     : exp(x)       %compute e^x for each element of x
     : expm1(x)     %compute exp (x) - 1 accurately in the neighborhood of zero
     : log(x)       %compute the natural logarithm, ln (x), for each element of x
@@ -468,6 +469,8 @@ parameters in italic are optionals
 ### Array Operations
 valid for Vectors and Matrices
 
+mode and dim are optional parameters
+
     : cat(dim, a1, a2, …, aN)  %return the concatenation of N-D array objects along dimension dim
     : horzcat(a1, a2, …, aN)   %return the concatenation of N-D array objects along dimension 2
     : vertcat(a1, a2, …, aN)   %return the concatenation of N-D array objects along dimension 1
@@ -477,19 +480,19 @@ valid for Vectors and Matrices
     : isfinite(a)  %return a logical array which is true where the elements of x are finite values and false if not
     : fliplr(a)    %flip array left to right - return a copy of x with the order of the columns reversed
     : flipud(a)    %flip array upside down - return a copy of x with the order of the rows reversed
-    : sort(a, dim, <ins>mode</ins>)    %return x arranged along dimension dim in mode order - ascend or descend
-    : issorted(a, <ins>mode</ins>)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
-    : sum(a, <ins>dim</ins>)        %sum of elements along dimension dim
-    : prod(a, <ins>dim</ins>)       %product of elements along dimension dim
-    : sumsum(a, <ins>dim</ins>)     %cumulative sum of elements along dimension dim
-    : cumprod(a, <ins>dim</ins>)    %cumulative product of elements along dimension dim
-    : sumsq(a, <ins>dim</ins>)      %sum of squares of elements along dimension dim
-    : max(a, <ins>dim</ins>)        %find maximum values
-    : min(a, <ins>dim</ins>)        %find minimum values in the array x
-    : cummax(a, <ins>dim</ins>)     %return the cumulative maximum values along dimension dim
-    : cummin(a, <ins>dim</ins>)     %return the cumulative minimum values along dimension dim
-    : dot(a1, a2, <ins>dim</ins>)   %compute the dot product of two vectors
-    : cross(a1, a2, <ins>dim</ins>) %compute the vector cross product of two 3-dimensional vectors x and y
+    : sort(a, dim, mode)    %return x arranged along dimension dim in mode order - ascend or descend
+    : issorted(a, mode)     %return true if the array is sorted according to mode - "ascend", "descend", or "either"
+    : sum(a, dim)        %sum of elements along dimension dim
+    : prod(a, dim)       %product of elements along dimension dim
+    : sumsum(a, dim)     %cumulative sum of elements along dimension dim
+    : cumprod(a, dim)    %cumulative product of elements along dimension dim
+    : sumsq(a, dim)      %sum of squares of elements along dimension dim
+    : max(a, dim)        %find maximum values
+    : min(a, dim)        %find minimum values in the array x
+    : cummax(a, dim)     %return the cumulative maximum values along dimension dim
+    : cummin(a, dim)     %return the cumulative minimum values along dimension dim
+    : dot(a1, a2, dim)   %compute the dot product of two vectors
+    : cross(a1, a2, dim) %compute the vector cross product of two 3-dimensional vectors x and y
 
 ### Vector Operations
     : any(v)       %return True when any element of a vector is nonzero
@@ -502,7 +505,7 @@ valid for Vectors and Matrices
     : all(mat, dim)     %return row of bools, each elements indicates if all element of a dim is nonzero - True
     : flip(mat, dim)    %return a copy of array x flipped across dimension dim - 2 for cols and 1 for rows
     : sortrows(mat, c)  %sort the rows of the matrix A according to the order of the columns specified in c=[idx]
-    : pinv(mat)    	  %matrix inverse
+    : pinv(mat)    	    %matrix inverse
 
 
 ## Data
