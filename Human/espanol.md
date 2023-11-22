@@ -88,7 +88,8 @@ no hay cambio
 **Irregular**\
 E -> I | O -> U |
   - hay cambio en la penúltima sílaba
-  - ocurre en la 3 persona del singular y plural\
+  - ocurre en la 3 persona del singular y plural
+
 CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal
   - en la última sílaba
   - ocurre en la 1 persona del singular
@@ -101,12 +102,12 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
    - -ir: -ía; -ías; -ías; -íamos; -íais; -ían
 
 **Regular**\
-no hay cambio
+  no hay cambio
 
 **Irregular**\
-SER: era; eras; eras; éramos; erais; eran\
-IR: iba; ibas; iba; íbamos; ibais; iban\
-VER: veía; veías; veía; veíamos; veíais; veían
+  - SER: era; eras; eras; éramos; erais; eran\
+  - IR: iba; ibas; iba; íbamos; ibais; iban\
+  - VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
 -- *No podía salir, llovía a cántaros a esa hora.*\
