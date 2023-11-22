@@ -4,10 +4,10 @@
     . [Gerundio](#gerundio)
     . [Participio](#participio)
 2. [Modos Verbal y sus Tiempos Verbales](#modos-verbal-y-sus-tiempos-verbales)
-    . [Indicativo](#indicativo)
-        . [Presente de Indicativo](#presente-de-indicativo)
-        . [Pretérito Perfecto Compuesto](#Pretérito-perfecto-compuesto)
-        . [Pretérito Perfecto Simples](#Pretérito-perfecto-simples)
+    - [Indicativo](#indicativo)
+        - [Presente de Indicativo](#presente-de-indicativo)
+        - [Pretérito Perfecto Compuesto](#Pretérito-perfecto-compuesto)
+        - [Pretérito Perfecto Simples](#Pretérito-perfecto-simples)
         . [Pretérito Imperfecto](#pretérito-imperfecto)
         . [Pretérito Pluscuamperfecto](#pretérito-pluscuamperfecto)
         . [Futuro Imperfecto/Simple](#futuro-imperfecto/simple)
@@ -32,18 +32,18 @@
 
 ### Infinitivo
 Expresar una acción determinada y, en la oración, realizar la función del nombre.\
-terminados en -ar (habl*ar*), en -er (beb*er*) y en -ir (ven*ir*)\
+terminados en -ar (habl**ar**), en -er (beb**er**) y en -ir (ven**ir**)\
 `Comer ensalada es saludable` - `Es importante pedir disculpas`
 
 ### Gerundio
 Expresa una acción que se está desarrollando y, en la oración, cumple la función del adverbio\
-terminados en -ando (habl*ar* -> habl*ando*) y en -iendo (beb*er* -> beb*iendo* / part*ir* -> part*iendo*)\
+terminados en -ando (habl**ar** -> habl**ando**) y en -iendo (beb**er** -> beb**iendo** / part**ir** -> part**iendo**)\
 `Tengo salir corriendo para no me retrasar`
 
 ### Participio
 Expresa una acción terminada y, en la oración, cumple la función del adjetivo.\
 declina* en número        **”flexiona”*\
-terminados en -ado (hablar -> hablado) y en -ido (beber -> bebido / partir -> partido)\
+terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido** / part**ir** -> part**ido**)\
 `Los hijos fueron amados por sus padres`
 
 
@@ -53,10 +53,10 @@ terminados en -ado (hablar -> hablado) y en -ido (beber -> bebido / partir -> pa
 expresa una acción como un hecho real, concreto y posible\
 
 #### Presente de Indicativo
-indica una acción que ocurre en el momento de hablar o que se repite con frecuencia\
-    . -ar: -o; -as; -a; -amos; -áis; -ar
-    . -er: -o; -es; -e; -emos; -éis; -en
-    . -ir: -o; -es; -e; -imos; -ís; -en
+indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
+    * -ar: -o; -as; -a; -amos; -áis; -ar
+    * -er: -o; -es; -e; -emos; -éis; -en
+    * -ir: -o; -es; -e; -imos; -ís; -en
 
 **Regular**\
 no hay cambio\
