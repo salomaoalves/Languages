@@ -42,7 +42,7 @@ terminados en -ando (habl**ar** -> habl**ando**) y en -iendo (beb**er** -> beb**
 
 ### Participio
 Expresa una acción terminada y, en la oración, cumple la función del adjetivo.\
-declina* en número        **”flexiona”*\
+declina* en número        **”flexiona”\*\
 terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido** / part**ir** -> part**ido**)\
 `Los hijos fueron amados por sus padres`
 
@@ -53,10 +53,10 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 expresa una acción como un hecho real, concreto y posible\
 
 #### Presente de Indicativo
-indica una acción que ocurre en el momento de hablar o que se repite con frecuencia\
-    * -ar: -o; -as; -a; -amos; -áis; -ar
-    * -er: -o; -es; -e; -emos; -éis; -en
-    * -ir: -o; -es; -e; -imos; -ís; -en
+indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
+    - -ar: -o; -as; -a; -amos; -áis; -ar
+    - -er: -o; -es; -e; -emos; -éis; -en
+    - -ir: -o; -es; -e; -imos; -ís; -en
 
 **Regular**\
 no hay cambio\
@@ -64,7 +64,7 @@ no hay cambio\
 O -> UE | En/r* -> IE | Ex* -> I    \
     - hay cambio de una vocal, en la penúltima sílaba, por un diptongo\
     - no ocurre en la 1 y 2 persona del plural\
-    **cualquier letra además de n y r (80% de los casos, excepciones como servir)*\
+    -*cualquier letra además de n y r (80% de los casos, excepciones como servir)*\
 CER/CIR -> Z\
     en la última sílaba\
     añadimos la letra z antes da última sílaba\
