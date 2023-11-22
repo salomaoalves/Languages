@@ -85,10 +85,10 @@ indica que la acción tuvo lugar en el pasado y también se completó en el pasa
 **Regular**\
 no hay cambio
 
-**Irregular**\	
+**Irregular**\
 E -> I | O -> U |
    - hay cambio en la penúltima sílaba
-   - ocurre en la 3 persona del singular y plural
+   - ocurre en la 3 persona del singular y plural\
 CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal
    - en la última sílaba
    - ocurre en la 1 persona del singular
@@ -109,9 +109,9 @@ IR: iba; ibas; iba; íbamos; ibais; iban\
 VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
-- *No podía salir, llovía a cántaros a esa hora.*\
-- *Yo iba a la casa de mi abuela todos los días.*\
-- *¿Qué deseaba querías?*
+* *No podía salir, llovía a cántaros a esa hora.*
+* *Yo iba a la casa de mi abuela todos los días.*
+* *¿Qué deseaba querías?*
 
 DONE HERE
 
@@ -120,8 +120,8 @@ en pt es llamado Pretérito Mais-que-perfeito\
 Expresa una acción en el pasado que sucedió antes de otra acción en el pasado\
 el verbo haber (en imperfecto de indicativo) + el verbo principal (en participio)\
 **Ex:**\
-    *Cuando llegué, Alicia ya había salido.*\
-    *Nunca me habían regalado un libro.*
+- *Cuando llegué, Alicia ya había salido.*\
+- *Nunca me habían regalado un libro.*
 
 
 #### Futuro Imperfecto/Simple
