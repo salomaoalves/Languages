@@ -100,18 +100,18 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
    - -er: -ía; -ías; -ía; -íamos; -íais; -ían
    - -ir: -ía; -ías; -ías; -íamos; -íais; -ían
 
-**Regular**
- no hay cambio
+**Regular**\
+no hay cambio
 
-**Irregular**
-SER: era; eras; eras; éramos; erais; eran\
+**Irregular**\
+ -- SER: era; eras; eras; éramos; erais; eran\
 IR: iba; ibas; iba; íbamos; ibais; iban\
 VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
-* *No podía salir, llovía a cántaros a esa hora.*
-* *Yo iba a la casa de mi abuela todos los días.*
-* *¿Qué deseaba querías?*
+- *No podía salir, llovía a cántaros a esa hora.*
+- *Yo iba a la casa de mi abuela todos los días.*
+- *¿Qué deseaba querías?*
 
 DONE HERE
 
