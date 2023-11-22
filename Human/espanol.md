@@ -42,7 +42,7 @@ terminados en -ando (habl**ar** -> habl**ando**) y en -iendo (beb**er** -> beb**
 
 ### Participio
 Expresa una acción terminada y, en la oración, cumple la función del adjetivo.\
-declina* en número        **”flexiona”\*\
+declina\* *”flexiona”* en número\
 terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido** / part**ir** -> part**ido**)\
 `Los hijos fueron amados por sus padres`
 
@@ -59,16 +59,17 @@ indica una acción que ocurre en el momento de hablar o que se repite con frecue
    - -ir: -o; -es; -e; -imos; -ís; -en
 
 **Regular**\
-no hay cambio\
+no hay cambio
+
 **Irregular**\
-O -> UE | En/r* -> IE | Ex* -> I    \
-   - hay cambio de una vocal, en la penúltima sílaba, por un diptongo\
-   - no ocurre en la 1 y 2 persona del plural\
-   -*cualquier letra además de n y r (80% de los casos, excepciones como servir)*\
-CER/CIR -> Z\
-   - en la última sílaba\
-    añadimos la letra z antes da última sílaba\
-    ocurre en la 1 persona del singular
+O -> UE | En/r* -> IE | Ex* -> I
+   - hay cambio de una vocal, en la penúltima sílaba, por un diptongo
+   - no ocurre en la 1 y 2 persona del plural
+   - *cualquier letra además de n y r (80% de los casos, excepciones como servir)*
+CER/CIR -> Z
+   - en la última sílaba
+   - añadimos la letra z antes da última sílaba
+   - ocurre en la 1 persona del singular
 
 #### Pretérito Perfecto Compuesto
 Se utiliza para expresar acciones que tuvieron lugar en el pasado reciente o que de alguna manera están relacionadas con el presente\
@@ -77,19 +78,20 @@ Suele ir acompañado de algunos marcadores temporales\
 
 #### Pretérito Perfecto Simples
 en pt es llamado Pretérito Perfeito  ----  Indefinido\
-indica que la acción tuvo lugar en el pasado y también se completó en el pasado\
-    . -ar: -é; -aste; -ó; -amos; -asteis; -ron
-    . -er/ir: -í; -iste; -ó; -imos; -isteis; -ron
-**Regular**\
-    no hay cambio\
-**Irregular**\	
-E -> I | O -> U |\ 
-    hay cambio en la penúltima sílaba\
-    ocurre en la 3 persona del singular y plural\
-CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal\
-    en la última sílaba\
-    ocurre en la 1 persona del singular
+indica que la acción tuvo lugar en el pasado y también se completó en el pasado
+   - -ar: -é; -aste; -ó; -amos; -asteis; -ron
+   - -er/ir: -í; -iste; -ó; -imos; -isteis; -ron
 
+**Regular**\
+    no hay cambio
+
+**Irregular**\	
+E -> I | O -> U |
+   - hay cambio en la penúltima sílaba
+   - ocurre en la 3 persona del singular y plural
+CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal
+   - en la última sílaba
+   - ocurre en la 1 persona del singular
 
 
 #### Pretérito Imperfecto
