@@ -1,31 +1,31 @@
 # Table of Contents
 1. [No Personales](#no-personales)
-    . [Infinitivo](#infinitivo)
-    . [Gerundio](#gerundio)
-    . [Participio](#participio)
+    - [Infinitivo](#infinitivo)
+    - [Gerundio](#gerundio)
+    - [Participio](#participio)
 2. [Modos Verbal y sus Tiempos Verbales](#modos-verbal-y-sus-tiempos-verbales)
     - [Indicativo](#indicativo)
         - [Presente de Indicativo](#presente-de-indicativo)
         - [Pretérito Perfecto Compuesto](#Pretérito-perfecto-compuesto)
         - [Pretérito Perfecto Simples](#Pretérito-perfecto-simples)
-        . [Pretérito Imperfecto](#pretérito-imperfecto)
-        . [Pretérito Pluscuamperfecto](#pretérito-pluscuamperfecto)
-        . [Futuro Imperfecto/Simple](#futuro-imperfecto/simple)
-        . [Futuro Perfecto/Compuesto](#futuro-perfecto/compuesto)
-        . [Condicional Simple](#condicional-simple)
-        . [Condicional Compuesto](#condicional-compuesto)
-    . [Subjuntivo](#subjuntivo)
-        . [Presente](#presente)
-        . [Pretérito Imperfecto](#pretérito-imperfecto)
-        . [Pretérito Perfecto](#pretérito-perfecto)
-        . [Pretérito Pluscuamperfecto](#pretérito-pluscuamperfecto)
-    . [Imperativo](#imperativo)
-        . [Afirmativo](#afirmativo)
-        . [Negativo](#negativo)
+        - [Pretérito Imperfecto](#pretérito-imperfecto)
+        - [Pretérito Pluscuamperfecto](#pretérito-pluscuamperfecto)
+        - [Futuro Imperfecto/Simple](#futuro-imperfecto/simple)
+        - [Futuro Perfecto/Compuesto](#futuro-perfecto/compuesto)
+        - [Condicional Simple](#condicional-simple)
+        - [Condicional Compuesto](#condicional-compuesto)
+    - [Subjuntivo](#subjuntivo)
+        - [Presente](#presente)
+        - [Pretérito Imperfecto](#pretérito-imperfecto)
+        - [Pretérito Perfecto](#pretérito-perfecto)
+        - [Pretérito Pluscuamperfecto](#pretérito-pluscuamperfecto)
+    - [Imperativo](#imperativo)
+        - [Afirmativo](#afirmativo)
+        - [Negativo](#negativo)
 2. [](#)
-    . [](#)
+    - [](#)
 2. [](#)
-    . [](#)
+    - [](#)
 
 
 # No Personales
@@ -52,6 +52,7 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 ## Indicativo
 expresa una acción como un hecho real, concreto y posible\
 
+
 ### Presente de Indicativo
 indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
    - -ar: -o; -as; -a; -amos; -áis; -ar
@@ -71,10 +72,12 @@ CER/CIR -> Z\
 &nbsp;&nbsp;&nbsp;&nbsp;añadimos la letra z antes da última sílaba\
 &nbsp;&nbsp;&nbsp;&nbsp;ocurre en la 1 persona del singular
 
+
 ### Pretérito Perfecto Compuesto
 Se utiliza para expresar acciones que tuvieron lugar en el pasado reciente o que de alguna manera están relacionadas con el presente\
 Suele ir acompañado de algunos marcadores temporales\
 `el verbo haber (en presente) + el verbo principal (en participio)`
+
 
 ### Pretérito Perfecto Simples
 en pt es llamado Pretérito Perfeito  ----  Indefinido\
@@ -112,6 +115,7 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
 &nbsp;&nbsp;&nbsp;- *No podía salir, llovía a cántaros a esa hora.*\
 &nbsp;&nbsp;&nbsp;- *Yo iba a la casa de mi abuela todos los días.*\
 &nbsp;&nbsp;&nbsp;- *¿Qué deseaba querías?*
+
 
 DONE HERE
 
