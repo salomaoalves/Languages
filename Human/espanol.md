@@ -101,12 +101,12 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
    - -ir: -ía; -ías; -ías; -íamos; -íais; -ían
 
 **Regular**\
-no hay cambio
+&nbsp;&nbsp;&nbsp;&nbsp;no hay cambio
 
-**Irregular**
-&nbsp;&nbsp;SER: era; eras; eras; éramos; erais; eran\
-IR: iba; ibas; iba; íbamos; ibais; iban\
-VER: veía; veías; veía; veíamos; veíais; veían
+**Irregular**\
+&nbsp;&nbsp;&nbsp;&nbsp;SER: era; eras; eras; éramos; erais; eran\
+&nbsp;&nbsp;&nbsp;&nbsp;IR: iba; ibas; iba; íbamos; ibais; iban\
+&nbsp;&nbsp;&nbsp;&nbsp;VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
  -- *No podía salir, llovía a cántaros a esa hora.*\
