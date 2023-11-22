@@ -28,19 +28,19 @@
     . [](#)
 
 
-## No Personales
+# No Personales
 
-### Infinitivo
+## Infinitivo
 Expresar una acción determinada y, en la oración, realizar la función del nombre.\
 terminados en -ar (habl**ar**), en -er (beb**er**) y en -ir (ven**ir**)\
 `Comer ensalada es saludable` - `Es importante pedir disculpas`
 
-### Gerundio
+## Gerundio
 Expresa una acción que se está desarrollando y, en la oración, cumple la función del adverbio\
 terminados en -ando (habl**ar** -> habl**ando**) y en -iendo (beb**er** -> beb**iendo** / part**ir** -> part**iendo**)\
 `Tengo salir corriendo para no me retrasar`
 
-### Participio
+## Participio
 Expresa una acción terminada y, en la oración, cumple la función del adjetivo.\
 declina\* *”flexiona”* en número\
 terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido** / part**ir** -> part**ido**)\
@@ -48,11 +48,11 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 
 
 
-## Modos Verbal y sus Tiempos Verbales
-### Indicativo
+# Modos Verbal y sus Tiempos Verbales
+## Indicativo
 expresa una acción como un hecho real, concreto y posible\
 
-#### Presente de Indicativo
+### Presente de Indicativo
 indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
    - -ar: -o; -as; -a; -amos; -áis; -ar
    - -er: -o; -es; -e; -emos; -éis; -en
@@ -71,19 +71,19 @@ CER/CIR -> Z
    - añadimos la letra z antes da última sílaba
    - ocurre en la 1 persona del singular
 
-#### Pretérito Perfecto Compuesto
+### Pretérito Perfecto Compuesto
 Se utiliza para expresar acciones que tuvieron lugar en el pasado reciente o que de alguna manera están relacionadas con el presente\
 Suele ir acompañado de algunos marcadores temporales\
 `el verbo haber (en presente) + el verbo principal (en participio)`
 
-#### Pretérito Perfecto Simples
+### Pretérito Perfecto Simples
 en pt es llamado Pretérito Perfeito  ----  Indefinido\
 indica que la acción tuvo lugar en el pasado y también se completó en el pasado
    - -ar: -é; -aste; -ó; -amos; -asteis; -ron
    - -er/ir: -í; -iste; -ó; -imos; -isteis; -ron
 
 **Regular**\
-    no hay cambio
+no hay cambio
 
 **Irregular**\	
 E -> I | O -> U |
@@ -94,22 +94,26 @@ CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal
    - ocurre en la 1 persona del singular
 
 
-#### Pretérito Imperfecto
-Indica una acción que sucedió en el pasado (una acción continúa) pero no sabemos si se completó o no, cortesía\
-    . -ar: -aba; -abas; -aba; -ábamos; -abais; -aban
-    . -er: -ía; -ías; -ía; -íamos; -íais; -ían
-    . -ir: -ía; -ías; -ías; -íamos; -íais; -ían
-**Regular**\
-    no hay cambio\
-**Irregular**\
-    SER: era; eras; eras; éramos; erais; eran\
-    IR: iba; ibas; iba; íbamos; ibais; iban\
-    VER: veía; veías; veía; veíamos; veíais; veían\
-**Ex:**\
-    *No podía salir, llovía a cántaros a esa hora.*\
-    *Yo iba a la casa de mi abuela todos los días.*\
-    *¿Qué deseaba querías?*
+### Pretérito Imperfecto
+Indica una acción que sucedió en el pasado (una acción continúa) pero no sabemos si se completó o no, cortesía
+   - -ar: -aba; -abas; -aba; -ábamos; -abais; -aban
+   - -er: -ía; -ías; -ía; -íamos; -íais; -ían
+   - -ir: -ía; -ías; -ías; -íamos; -íais; -ían
 
+**Regular**
+ no hay cambio
+
+**Irregular**
+SER: era; eras; eras; éramos; erais; eran\
+IR: iba; ibas; iba; íbamos; ibais; iban\
+VER: veía; veías; veía; veíamos; veíais; veían
+
+**Ex:**\
+- *No podía salir, llovía a cántaros a esa hora.*\
+- *Yo iba a la casa de mi abuela todos los días.*\
+- *¿Qué deseaba querías?*
+
+DONE HERE
 
 #### Pretérito Pluscuamperfecto
 en pt es llamado Pretérito Mais-que-perfeito\
@@ -122,9 +126,9 @@ el verbo haber (en imperfecto de indicativo) + el verbo principal (en participio
 
 #### Futuro Imperfecto/Simple
 Expresa una acción que sucederá en el futuro; dar órdenes; retrasar y anticipar objeciones al interlocutor\
-Puede tener algunas perífrasis verbales: (1) ir (presente/imperfecto indicativo) + a + el verbo principal (en infinitivo); (2) estar (en futuro) + el verbo principal (gerundio); (3) pensar (imperfecto/presente) + el verbo principal (infinitivo)\
-    . -ar/er: -é; -ás; -á; -emos; -éis; -án
-    . -ir: -é; -ás; -á; -emos; -éis; -irán
+Puede tener algunas perífrasis verbales: (1) ir (presente/imperfecto indicativo) + a + el verbo principal (en infinitivo); (2) estar (en futuro) + el verbo principal (gerundio); (3) pensar (imperfecto/presente) + el verbo principal (infinitivo)
+   - -ar/er: -é; -ás; -á; -emos; -éis; -án
+   - -ir: -é; -ás; -á; -emos; -éis; -irán
 **Regular**
 no hay cambio
 **Irregular**
