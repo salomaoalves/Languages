@@ -104,7 +104,7 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
 no hay cambio
 
 **Irregular**
-SER: era; eras; eras; éramos; erais; eran\
+&nbsp;&nbsp;SER: era; eras; eras; éramos; erais; eran\
 IR: iba; ibas; iba; íbamos; ibais; iban\
 VER: veía; veías; veía; veíamos; veíais; veían
 
