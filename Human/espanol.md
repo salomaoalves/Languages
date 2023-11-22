@@ -53,7 +53,7 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 expresa una acción como un hecho real, concreto y posible\
 
 #### Presente de Indicativo
-indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
+indica una acción que ocurre en el momento de hablar o que se repite con frecuencia\
     * -ar: -o; -as; -a; -amos; -áis; -ar
     * -er: -o; -es; -e; -emos; -éis; -en
     * -ir: -o; -es; -e; -imos; -ís; -en
@@ -62,8 +62,8 @@ indica una acción que ocurre en el momento de hablar o que se repite con frecue
 no hay cambio\
 **Irregular**\
 O -> UE | En/r* -> IE | Ex* -> I    \
-    hay cambio de una vocal, en la penúltima sílaba, por un diptongo\
-    no ocurre en la 1 y 2 persona del plural\
+    - hay cambio de una vocal, en la penúltima sílaba, por un diptongo\
+    - no ocurre en la 1 y 2 persona del plural\
     **cualquier letra además de n y r (80% de los casos, excepciones como servir)*\
 CER/CIR -> Z\
     en la última sílaba\
