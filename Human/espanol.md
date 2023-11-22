@@ -59,17 +59,17 @@ indica una acción que ocurre en el momento de hablar o que se repite con frecue
    - -ir: -o; -es; -e; -imos; -ís; -en
 
 **Regular**\
-no hay cambio
+&nbsp;&nbsp;&nbsp;&nbsp;no hay cambio
 
 **Irregular**\
-O -> UE | En/r* -> IE | Ex* -> I
-   - hay cambio de una vocal, en la penúltima sílaba, por un diptongo
-   - no ocurre en la 1 y 2 persona del plural
-   - *cualquier letra además de n y r (80% de los casos, excepciones como servir)*
-CER/CIR -> Z
-   - en la última sílaba
-   - añadimos la letra z antes da última sílaba
-   - ocurre en la 1 persona del singular
+O -> UE | En/r* -> IE | Ex* -> I\
+&nbsp;&nbsp;&nbsp;&nbsp;hay cambio de una vocal, en la penúltima sílaba, por un diptongo\
+&nbsp;&nbsp;&nbsp;&nbsp;no ocurre en la 1 y 2 persona del plural\
+&nbsp;&nbsp;&nbsp;&nbsp;*cualquier letra además de n y r (80% de los casos, excepciones como servir)*\
+CER/CIR -> Z\
+&nbsp;&nbsp;&nbsp;&nbsp;en la última sílaba\
+&nbsp;&nbsp;&nbsp;&nbsp;añadimos la letra z antes da última sílaba\
+&nbsp;&nbsp;&nbsp;&nbsp;ocurre en la 1 persona del singular
 
 ### Pretérito Perfecto Compuesto
 Se utiliza para expresar acciones que tuvieron lugar en el pasado reciente o que de alguna manera están relacionadas con el presente\
@@ -83,15 +83,15 @@ indica que la acción tuvo lugar en el pasado y también se completó en el pasa
    - -er/ir: -í; -iste; -ó; -imos; -isteis; -ron
 
 **Regular**\
-no hay cambio
+&nbsp;&nbsp;&nbsp;&nbsp;no hay cambio
 
 **Irregular**\
 E -> I | O -> U |\
-\t hay cambio en la penúltima sílaba\
-\t ocurre en la 3 persona del singular y plural\
+&nbsp;&nbsp;&nbsp;&nbsp;hay cambio en la penúltima sílaba\
+&nbsp;&nbsp;&nbsp;&nbsp;ocurre en la 3 persona del singular y plural\
 CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal\
-\t en la última sílaba\
-\t ocurre en la 1 persona del singular
+&nbsp;&nbsp;&nbsp;&nbsp;en la última sílaba\
+&nbsp;&nbsp;&nbsp;&nbsp;ocurre en la 1 persona del singular
 
 
 ### Pretérito Imperfecto
@@ -109,9 +109,9 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
 &nbsp;&nbsp;&nbsp;&nbsp;VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
- -- *No podía salir, llovía a cántaros a esa hora.*\
- -- *Yo iba a la casa de mi abuela todos los días.*\
- -- *¿Qué deseaba querías?*
+&nbsp;&nbsp;&nbsp;- *No podía salir, llovía a cántaros a esa hora.*\
+&nbsp;&nbsp;&nbsp;- *Yo iba a la casa de mi abuela todos los días.*\
+&nbsp;&nbsp;&nbsp;- *¿Qué deseaba querías?*
 
 DONE HERE
 
