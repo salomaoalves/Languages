@@ -86,13 +86,12 @@ indica que la acción tuvo lugar en el pasado y también se completó en el pasa
 no hay cambio
 
 **Irregular**\
-E -> I | O -> U |
-  - hay cambio en la penúltima sílaba
-  - ocurre en la 3 persona del singular y plural
-
-CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal
-  - en la última sílaba
-  - ocurre en la 1 persona del singular
+E -> I | O -> U |\
+--- hay cambio en la penúltima sílaba\
+--- ocurre en la 3 persona del singular y plural\
+CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal\
+--- en la última sílaba\
+--- ocurre en la 1 persona del singular
 
 
 ### Pretérito Imperfecto
@@ -104,15 +103,15 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
 **Regular**\
   no hay cambio
 
-**Irregular**\
+**Irregular**
   - SER: era; eras; eras; éramos; erais; eran\
   - IR: iba; ibas; iba; íbamos; ibais; iban\
   - VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
--- *No podía salir, llovía a cántaros a esa hora.*\
--- *Yo iba a la casa de mi abuela todos los días.*\
--- *¿Qué deseaba querías?*
+ -- *No podía salir, llovía a cántaros a esa hora.*\
+ -- *Yo iba a la casa de mi abuela todos los días.*\
+ -- *¿Qué deseaba querías?*
 
 DONE HERE
 
