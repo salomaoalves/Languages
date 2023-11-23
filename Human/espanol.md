@@ -317,7 +317,7 @@ las formas coinciden con las del presente de subjuntivo\
 
 
 # Vocabulario
-## Marcadores Temporales
+### Marcadores Temporales
 &nbsp;&nbsp;&nbsp;ayer - anoche - anteayer *<font size="4">*(ontem - ontem à noite - antes de ontem)*\
 &nbsp;&nbsp;&nbsp;esta mañana/tarde/noche/semana\
 &nbsp;&nbsp;&nbsp;este mes/año/día/fin de semana\
@@ -327,7 +327,7 @@ las formas coinciden con las del presente de subjuntivo\
 &nbsp;&nbsp;&nbsp;nunca - siempre - alguna vez\
 &nbsp;&nbsp;&nbsp;aquel día - aquella época - entonces *(então)*
 
-## Horas
+### Horas
 &nbsp;&nbsp;&nbsp;las tres y media\
 &nbsp;&nbsp;&nbsp;medianoche; mediodía\
 &nbsp;&nbsp;&nbsp;tres [en punto - y cinco - y diez - y cuarto\
@@ -335,7 +335,7 @@ las formas coinciden con las del presente de subjuntivo\
 &nbsp;&nbsp;&nbsp;tres [menos veinticinco - menos veinte\
 &nbsp;&nbsp;&nbsp;menos cuarto - menos diez - menos cinco]
 
-## Los días de la semana
+### Los días de la semana
 Lunes - Martes
 Miércoles - Jueves
 Viernes - Sábado - Domingo
