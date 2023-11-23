@@ -22,8 +22,29 @@
     - [Imperativo](#imperativo)
         - [Afirmativo](#afirmativo)
         - [Negativo](#negativo)
-2. [](#)
-    - [](#)
+3. [Gramatica](#gramatica)
+    - [Personas](#personas)
+    - [Artículos](#artículos)
+    - [Los Demostrativos](#los_demostrativos)
+    - [Muy x Mucho](#muy_x_mucho)
+    - [Acentuación](#acentuación)
+    - [Pronombres](#pronombres)
+    - [Preposiciones](#preposiciones)
+2. [Vocabulario](#vocabulario)
+    - [Marcadores Temporales](#marcadores_temporales)
+    - [Horas](#horas)
+    - [Los días de la semana](#los_días_de_la_semana)
+    - [Los Meses](#los_meses)
+    - [Estaciones del Año](#estaciones_del_año)
+    - [Rosa de los Vientos](#rosa_de_los_vientos)
+    - [Direcciones](#direcciones)
+    - [Números](#números)
+    - [Comida](#comida)
+    - [Fruta](#fruta)
+    - [Animales](#animales)
+    - [Colores](#colores)
+    - [Ropa](#ropa)
+
 2. [](#)
     - [](#)
 
@@ -52,7 +73,6 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 ## Indicativo
 expresa una acción como un hecho real, concreto y posible\
 
-
 ### Presente de Indicativo ----------------------------------------------------------------------------------
 indica una acción que ocurre en el momento de hablar o que se repite con frecuencia
    - -ar: -o; -as; -a; -amos; -áis; -ar
@@ -76,7 +96,7 @@ CER/CIR -> Z\
 ### Pretérito Perfecto Compuesto ---------------------------------------------------------------------------
 Se utiliza para expresar acciones que tuvieron lugar en el pasado reciente o que de alguna manera están relacionadas con el presente\
 Suele ir acompañado de algunos marcadores temporales\
-`el verbo haber (en presente) + el verbo principal (en participio)`
+&nbsp;&nbsp;&nbsp; - el verbo **haber** *(en presente)* + el verbo principal *(en participio)*
 
 
 ### Pretérito Perfecto Simples --------------------------------------------------------------------------
@@ -89,7 +109,7 @@ indica que la acción tuvo lugar en el pasado y también se completó en el pasa
 &nbsp;&nbsp;&nbsp;&nbsp;no hay cambio
 
 **Irregular**\
-E -> I | O -> U |\
+E -> I | O -> U\
 &nbsp;&nbsp;&nbsp;&nbsp;hay cambio en la penúltima sílaba\
 &nbsp;&nbsp;&nbsp;&nbsp;ocurre en la 3 persona del singular y plural\
 CAR -> qu | ZAR -> c | GAR -> gu + conjugación normal\
@@ -112,9 +132,9 @@ Indica una acción que sucedió en el pasado (una acción continúa) pero no sab
 &nbsp;&nbsp;&nbsp;&nbsp;VER: veía; veías; veía; veíamos; veíais; veían
 
 **Ex:**\
-&nbsp;&nbsp;&nbsp;- *No podía salir, llovía a cántaros a esa hora.*\
-&nbsp;&nbsp;&nbsp;- *Yo iba a la casa de mi abuela todos los días.*\
-&nbsp;&nbsp;&nbsp;- *¿Qué deseaba querías?*
+&nbsp;&nbsp;&nbsp;- *No podía salir, **llovía** a cántaros a esa hora.*\
+&nbsp;&nbsp;&nbsp;- *Yo **iba** a la casa de mi abuela todos los días.*\
+&nbsp;&nbsp;&nbsp;- *¿Qué **deseaba** querías?*
 
 
 DONE HERE
@@ -260,3 +280,129 @@ las formas coinciden con las del presente de subjuntivo\
     *No seas descortés con quien te habla.*\
     *No tomes el primer taxi que aparezca.*\
     *No apoyen los zapatos sobre el sofá.*
+
+
+# Gramatica
+
+## Personas
+### Singular
+&nbsp;&nbsp;&nbsp;1ª - Yo\
+&nbsp;&nbsp;&nbsp;2ª - Tú\
+&nbsp;&nbsp;&nbsp;3ª - Él, Ella, Usted\*
+
+### Plural
+&nbsp;&nbsp;&nbsp;1ª - Nosotros(as)\
+&nbsp;&nbsp;&nbsp;2ª - Vosotros(as)\
+&nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
+
+*\*es segunda persona pero son conjugada como tercera*
+
+
+## Artículos
+### Singular
+&nbsp;&nbsp;&nbsp;Masc: el - un\
+&nbsp;&nbsp;&nbsp;Feme: la - una\
+&nbsp;&nbsp;&nbsp;Neu: lo
+
+### Plural
+&nbsp;&nbsp;&nbsp;Masc: los - unos\
+&nbsp;&nbsp;&nbsp;Feme: las - unas\
+
+### Preposición + Artículo
+&nbsp;&nbsp;&nbsp;a + el = al\
+&nbsp;&nbsp;&nbsp;de + el = del
+
+
+
+
+
+# Vocabulario
+## Marcadores Temporales
+&nbsp;&nbsp;&nbsp;ayer - anoche - anteayer <font size="4">(ontem - ontem à noite - antes de ontem)</font>\
+&nbsp;&nbsp;&nbsp;esta mañana/tarde/noche/semana\
+&nbsp;&nbsp;&nbsp;este mes/año/día/fin de semana\
+&nbsp;&nbsp;&nbsp;la semana pasada - el mes anterior\
+&nbsp;&nbsp;&nbsp;el año/siglo (século) pasado\
+&nbsp;&nbsp;&nbsp;hoy - ya - todavía no (hoje - já - ainda não)\
+&nbsp;&nbsp;&nbsp;nunca - siempre - alguna vez\
+&nbsp;&nbsp;&nbsp;aquel día - aquella época - entonces (então)
+
+## Horas
+&nbsp;&nbsp;&nbsp;las tres y media\
+&nbsp;&nbsp;&nbsp;medianoche; mediodía\
+&nbsp;&nbsp;&nbsp;tres [en punto - y cinco - y diez - y cuarto\
+&nbsp;&nbsp;&nbsp;y veinte - y veinticinco - y media]\
+&nbsp;&nbsp;&nbsp;menos veinticinco - menos veinte\
+&nbsp;&nbsp;&nbsp;menos cuarto - menos diez - menos cinco
+
+## Los días de la semana
+Lunes - Martes
+Miércoles - Jueves
+Viernes - Sábado - Domingo
+los meses
+Enero - Febrero - Marzo
+Abril - Mayo - Junio
+Julio - Agosto - Septiembre
+Octubre - Noviembre - Diciembre
+Estaciones del Año
+Otoño - Invierno - Primavera - Verano
+Rosa de los Vientos
+Norte - Sur - Este - Oeste
+Noroeste - Noreste - Suroeste - Sureste
+Direcciones
+Izquierda - Derecha - Arriba - Abajo
+Números
+Ordinales (o/a)
+primero - segundo - tercero - cuarto
+quinto - sexto - séptimo - octavo - noveno
+décimo - décimo primero - vigésimo - trigésimo 
+cuadragésimo - quincuagésimo - sexagésimo
+septuagésimo - octogésimo - nonagésimo - centésimo
+Cardinales
+cero - uno - dos - tres - cuatro - cinco - seis
+siete - ocho - nueve - diez - once - doze
+trece - catorce - quince - dieciséis - diecisiete - dieci*
+veinte - veintiuno - treinta - treinta y uno
+cuarenta - cincuenta - sesenta - setenta - ochenta
+noventa - cien - ciento diez - doscientos - trescientos
+cuatrocientos - quinientos - seiscientos - setecientos
+ochocientos - novecientos - un mil - dos mil
+millón - mil millones - trillón
+Comida
+ensalada - papa - patatas fritas - pastel (bolo)
+pescado - queso - sala - bistec (bife) - jamón (presunto)
+pollo - cerdo - carne de vacuno (carne de vaca)
+perrito caliente - salchicha - bacalao (bacalhau)
+mantequilla - huevo - harina (farinha) - ajo
+frijole (feijão) - palomitas de maíz (pipoca) - pan
+bacón - lasaña - tortilla (omelete) - aceite - mayonesa
+Fruta
+acerola - aguacate (abacate) - albaricoque (damasco)
+anón/anona (pinha) - asái (açaí) - cajú
+caqui/palosanto (caqui) - carambola/gruta de estrella
+cereza - ciruela (ameixa) - coco - copoazú - dátil (tâmara)
+frambuesa - fresa - grosella = guayaba - higo (figo)
+limón - kiwi - lichi (lichia) - mandarina (mexerica) 
+mango - manzana - maracuyá - melón - mora (amora)
+papaya - pera - pinã/ananás (abacaxi) - uva
+yaca/nanjea (jaca) - sandía (melancia)
+Animales
+perro - pez (peixe) - gato - tortuga - conejo
+gallina - pavo (peru) - gallo - chivo (bode)
+pato - burro - cerdo - caballo - vaca - toro
+tiburón - culebra - oso - zorro (raposa) - elefante
+caimán/yacaré - cebra - león - ternero (bezerro)
+oca (ganso) - paloma (pombo) - pollito (pinto)
+Colores
+blanco - negro - gris
+azul - verde - amarillo - marrón - bege
+naranja/anaranjado - lila - rosa/rosado
+rojo - morado/violeta 
+Ropa
+abrigo - bermudas - blusa - bragas (calcinhas)
+calcetines/medias - camisa - camiseta - chaqueta
+falda - guantes (luvas) - pantalón vaqueros (jeans) - sobretodo
+traje - calzoncillo (cueca) - bañador (roupa de banho) - chándal (moletom)
+anillo (anel) - bota - cartera - collar - corbata - gafas 
+gorra (boné) - sombrero - zapatos - pantuflas - pañuelo (lenço)
+paraguas (guarda-chuva) - pendientes (brincos) - reloj (relógio)
