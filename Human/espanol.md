@@ -285,12 +285,12 @@ las formas coinciden con las del presente de subjuntivo\
 # Gramatica
 
 ## Personas
-### Singular
+**Singular**\
 &nbsp;&nbsp;&nbsp;1ª - Yo\
 &nbsp;&nbsp;&nbsp;2ª - Tú\
 &nbsp;&nbsp;&nbsp;3ª - Él, Ella, Usted\*
 
-### Plural
+**Plural**\
 &nbsp;&nbsp;&nbsp;1ª - Nosotros(as)\
 &nbsp;&nbsp;&nbsp;2ª - Vosotros(as)\
 &nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
@@ -299,16 +299,16 @@ las formas coinciden con las del presente de subjuntivo\
 
 
 ## Artículos
-### Singular
+**Singular**\
 &nbsp;&nbsp;&nbsp;Masc: el - un\
 &nbsp;&nbsp;&nbsp;Feme: la - una\
 &nbsp;&nbsp;&nbsp;Neu: lo
 
-### Plural
+**Plural**\
 &nbsp;&nbsp;&nbsp;Masc: los - unos\
 &nbsp;&nbsp;&nbsp;Feme: las - unas\
 
-### Preposición + Artículo
+**Preposición + Artículo**\
 &nbsp;&nbsp;&nbsp;a + el = al\
 &nbsp;&nbsp;&nbsp;de + el = del
 
@@ -318,22 +318,22 @@ las formas coinciden con las del presente de subjuntivo\
 
 # Vocabulario
 ## Marcadores Temporales
-&nbsp;&nbsp;&nbsp;ayer - anoche - anteayer <font size="4">(ontem - ontem à noite - antes de ontem)</font>\
+&nbsp;&nbsp;&nbsp;ayer - anoche - anteayer *<font size="4">*(ontem - ontem à noite - antes de ontem)*\
 &nbsp;&nbsp;&nbsp;esta mañana/tarde/noche/semana\
 &nbsp;&nbsp;&nbsp;este mes/año/día/fin de semana\
 &nbsp;&nbsp;&nbsp;la semana pasada - el mes anterior\
 &nbsp;&nbsp;&nbsp;el año/siglo (século) pasado\
-&nbsp;&nbsp;&nbsp;hoy - ya - todavía no (hoje - já - ainda não)\
+&nbsp;&nbsp;&nbsp;hoy - ya - todavía no *(hoje - já - ainda não)*\
 &nbsp;&nbsp;&nbsp;nunca - siempre - alguna vez\
-&nbsp;&nbsp;&nbsp;aquel día - aquella época - entonces (então)
+&nbsp;&nbsp;&nbsp;aquel día - aquella época - entonces *(então)*
 
 ## Horas
 &nbsp;&nbsp;&nbsp;las tres y media\
 &nbsp;&nbsp;&nbsp;medianoche; mediodía\
 &nbsp;&nbsp;&nbsp;tres [en punto - y cinco - y diez - y cuarto\
 &nbsp;&nbsp;&nbsp;y veinte - y veinticinco - y media]\
-&nbsp;&nbsp;&nbsp;menos veinticinco - menos veinte\
-&nbsp;&nbsp;&nbsp;menos cuarto - menos diez - menos cinco
+&nbsp;&nbsp;&nbsp;tres [menos veinticinco - menos veinte\
+&nbsp;&nbsp;&nbsp;menos cuarto - menos diez - menos cinco]
 
 ## Los días de la semana
 Lunes - Martes
