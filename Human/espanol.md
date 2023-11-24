@@ -447,7 +447,7 @@ es un signo ortográfico cuya función es diferenciar palabras que se escriben d
 
 ### Possessivos
 Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
-Átomos: se usa antes del sustantivo\
+Átomos: se usa antes del sustantivo
 | Tónicos | Átomos |
 |---|---|
 | Mío(a)(s) | Mi(s) |
