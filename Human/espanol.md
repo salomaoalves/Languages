@@ -437,7 +437,7 @@ es un signo ortográfico cuya función es diferenciar palabras que se escriben d
 ## Pronombres
 ### Pessoais
 |  | Objeto Directo | Onjeto Indirecto |
-|---|---|---|---|---|
+|---|---|---|
 | Yo | me | me |
 | Tu | te | te |
 | El/Ella | lo/la | le/se |
