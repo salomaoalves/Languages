@@ -341,6 +341,184 @@ las formas coinciden con las del presente de subjuntivo
 &nbsp;&nbsp;&nbsp;de + el = del
 
 
+## Los Desmontrativos
+se utilizan para indicar la ubicación de algo o alguien en relación con el remitente y/o receptor de un mensaje\
+cuando cumplen la función de pronombre, se suele acentuar como una forma de diferenciarlos de los adjetivos, pero eso se aplica sólo en los casos en que hay ambigüedad.
+
+### Junto al remitente del mensaje
+Para referirse a algo o alguien que está cerca del remitente del mensaje.
+|  | Masculino | Feminino | Neutro |
+|---|---|---|---|
+| Singular | este | esta | esto |
+| Plural | estes | estas | - |
+
+**Ex:**\
+*este es mi amigo juan*\
+*estos son mis colegas*\
+*no conozco a esta chica*
+
+### Cerca del receptor del mensaje
+Para referirse a algo o alguien que está, en cierto modo, alejado del emisor del mensaje y cercano al receptor
+|  | Masculino | Feminino | Neutro |
+|---|---|---|---|
+| Singular | ese | esa | eso |
+| Plural | eses | esas | - |
+
+**Ex:**\
+*Dame ese bolígrafo, por favor.*\
+*Estos vestidos son muy bonitos.*\
+*¿Esta chica es tu hermana?*
+
+### Lejos del remitente y del receptor del mensaje.
+Para referirse a algo o alguien que está lejos tanto del emisor como del receptor del mensaje.
+|  | Masculino | Feminino | Neutro |
+|---|---|---|---|
+| Singular | aquel | aquella | aquello |
+| Plural | aquellos | aquellas | - |
+
+**Ex:**\
+*Ese coche rojo es mío.*\
+*Estos son mis alumnos de portugués.*\
+*El viento cerró esa puerta.*
+
+
+## Muy vs Mucho
+puede expresar calidad, cantidad e intensidad
+
+### Muy
+funciona como adverbio y debe usarse con adverbios y adjetivos; es invariable - no varía por género y número
+
+Muy + Adverbio\
+&nbsp;&nbsp; - *¡La prueba fue muy fácil!*\
+&nbsp;&nbsp; - *Lo que recibí fue muy poco.*
+
+Muy + Adjetivos\
+&nbsp;&nbsp; - *Mi hermana es muy inteligente.*\
+&nbsp;&nbsp; - *José es muy guapo.*
+
+### Mucho
+en la oración, funciona como adjetivo cuando se usa con un sustantivo, variando en género y número; cuando acompaña a un verbo, funciona como un adverbio y no varía en género y número
+
+Mucho + Sustantivo\
+&nbsp;&nbsp; - *Tengo muchas tareas que hacer.*\
+&nbsp;&nbsp; - *Tienes muchos amigos.*
+
+Mucho + Verbo\
+&nbsp;&nbsp; - *Todos los días estudio mucho.*\
+&nbsp;&nbsp; - *Comí mucho en la boda.*
+
+
+## Acentuación
+### Acentuación Prosódica
+es el énfasis que se le da a una determinada sílaba dentro de una palabra. A esta sílaba la llamamos “sílaba acentuada”.\
+&nbsp;&nbsp;**Aguda:** palabras cuya sílaba acentuada es la última\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: papel, canción, amor :: ( pt oxitonos)\
+&nbsp;&nbsp;**Graves o llanas:** palabras cuya sílaba acentuada es la penúltima\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: problema, adulto, martes. :: ( pt paroxitones)\
+&nbsp;&nbsp;**Esdrújulas:** palabras cuya sílaba acentuada es la antepenúltima\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: ejército, hígado, cáscara. :: ( pt proparoxitonas)\
+&nbsp;&nbsp;**Sobresdrújulas:** palabras cuya sílaba acentuada es la anterior a la antepenúltima. Este es un caso único en el idioma español, solo ocurre cuando dos o tres pronombres se unen a un verbo mediante enclisis\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: dígaselo, véndemelo.
+
+### Acento ortográfico
+es el símbolo ortográfico con el que se representa el acento prosódico\
+&nbsp;&nbsp;**Aguda:** solo reciben acento cuando terminan en -n, -s o vocal.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: camión, después, sofá\
+&nbsp;&nbsp;**Graves:** sólo reciben acento cuando NO terminan en –n, –s o vocal y las palabras paroxítonas que terminan en -n, -s o vocal no se acentúan\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: débil, lápiz, álbum\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: juventud, palabras, trabajo\
+&nbsp;&nbsp;**Esdrújulas:** todas las palabras de este grupo se acentúan\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: pájaro, íntimo, árboles
+
+### Acento Diacrítico
+es un signo ortográfico cuya función es diferenciar palabras que se escriben de la misma forma, pero pertenecen a clases gramaticales diferentes.
+
+
+## Pronombres
+### Pessoais
+|  | Objeto Directo | Onjeto Indirecto |
+|---|---|---|---|---|
+| Yo | me | me |
+| Tu | te | te |
+| El/Ella | lo/la | le/se |
+| Nosotros | nos | nos |
+| Vosotros | os | os |
+| Ellos/Ellas | los/las | les/se |
+
+### Possessivos
+Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
+Átomos: se usa antes del sustantivo\
+| Tónicos | Átomos |
+|---|---|
+| Mío(a)(s) | Mi(s) |
+| Tuyo(a)(s) | Tu(s) |
+| Suyo(a)(s) | Su(s) |
+| Nuestro(a)(s) | Nuestro(a)(s) |
+| Vuestro(a)(s) | Vuestro(a)(s) |
+| Suyo(a)(s) | Su(s) |
+
+### Interogativos
+&nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* 	*en la pregunta tiene acento
+
+
+## Preposiciones
+### Temporales
+&nbsp;&nbsp;&nbsp;a - ‘A las ocho de la mañana’\
+&nbsp;&nbsp;&nbsp;antes de - ‘Antes de las ocho de la mañana’\
+&nbsp;&nbsp;&nbsp;de - ‘De 7 a 9’\
+&nbsp;&nbsp;&nbsp;dentro de - ‘Dentro de uns hora’\
+&nbsp;&nbsp;&nbsp;desde - ‘Desde las 9 de la mañana’\
+&nbsp;&nbsp;&nbsp;desde hace - ‘Desde hace dos anõs’\
+&nbsp;&nbsp;&nbsp;después de - ‘Después de las ocho’\
+&nbsp;&nbsp;&nbsp;durante - ‘Durante las vacaciones’\
+&nbsp;&nbsp;&nbsp;en - ‘En febrero’\
+&nbsp;&nbsp;&nbsp;hasta - ‘Hasta mañana’\
+&nbsp;&nbsp;&nbsp;por - ‘por la mañana’\
+&nbsp;&nbsp;&nbsp;sobre - ‘sobre las dez horas’\
+&nbsp;&nbsp;&nbsp;tras - ‘tras el invierno’
+
+### Locativas
+&nbsp;&nbsp;&nbsp;a - ‘A la biblioteca’\
+&nbsp;&nbsp;&nbsp;a casa  - ‘Ir a casa de mis padres’\
+&nbsp;&nbsp;&nbsp;a la derecha de - ‘A la derecha del coche’\
+&nbsp;&nbsp;&nbsp;a la izquierda de - ‘A la izquierda del coche’\
+&nbsp;&nbsp;&nbsp;al lado de - ‘Juan está al lado del coche’\
+&nbsp;&nbsp;&nbsp;alrededor de - ‘Alrededor de la casa’\
+&nbsp;&nbsp;&nbsp;a través de - ‘A través de la puerta’\
+&nbsp;&nbsp;&nbsp;cerca de - ‘Vivo cerca de la escuela’\
+&nbsp;&nbsp;&nbsp;contra - ‘Contra la pared’\
+&nbsp;&nbsp;&nbsp;de - ‘Venzo de Andalucía’\
+&nbsp;&nbsp;&nbsp;debajo de - ‘Debajo de la mesa’\
+&nbsp;&nbsp;&nbsp;delante de - ‘Delante del Árbol’\
+&nbsp;&nbsp;&nbsp;detrás de - ‘Detrás de la casa’\
+&nbsp;&nbsp;&nbsp;en - ‘En la ciudad’\
+&nbsp;&nbsp;&nbsp;en casa de - ‘EStoy en casa de Pabol’\
+&nbsp;&nbsp;&nbsp;encima de - ‘Encima de la mesa’\
+&nbsp;&nbsp;&nbsp;enfrente de - ‘Él vive enfrente de mic asa’\
+&nbsp;&nbsp;&nbsp;entre - ‘Andorra está entre Francia y España’\
+&nbsp;&nbsp;&nbsp;fuera de - ‘Fuera de la casa’\
+&nbsp;&nbsp;&nbsp;hacia - ‘Ve hacia el norte’\
+&nbsp;&nbsp;&nbsp;junto a - ‘Junto a la entrada’\
+&nbsp;&nbsp;&nbsp;lejos de - ‘Vivo lejos de la estación’\
+&nbsp;&nbsp;&nbsp;por - ‘Tienes que entrar por la puerta’\
+&nbsp;&nbsp;&nbsp;sobre - ‘Sobre la cabeza’\
+&nbsp;&nbsp;&nbsp;tras - ‘Tras la puerta’
+
+### Otras
+&nbsp;&nbsp;&nbsp;a - ‘He visto a Clara’\
+&nbsp;&nbsp;&nbsp;a favor de - ‘Estou a favor de tú’\
+&nbsp;&nbsp;&nbsp;a pesar de - ‘A pesar del mal tiempo’\
+&nbsp;&nbsp;&nbsp;con - ‘Con alegria’\
+&nbsp;&nbsp;&nbsp;de - ‘Un regalo de Julia’\
+&nbsp;&nbsp;&nbsp;en - ‘En coche’\
+&nbsp;&nbsp;&nbsp;en contra de - ‘Estar en contra de una idea’\
+&nbsp;&nbsp;&nbsp;gracias a - ‘Grácias a Carmen, terminei más rápido’\
+&nbsp;&nbsp;&nbsp;por - ‘Fue detenido por robe’\
+&nbsp;&nbsp;&nbsp;para - ‘Un regalo para mi padre’\
+&nbsp;&nbsp;&nbsp;según - ‘Según el periódico’\
+&nbsp;&nbsp;&nbsp;sin - ‘Sin mis maletas’\
+&nbsp;&nbsp;&nbsp;sobre - ‘Un artículo sobre la pobreza’
+
 
 # Vocabulario
 ### Marcadores Temporales
@@ -425,3 +603,15 @@ las formas coinciden con las del presente de subjuntivo
 &nbsp;&nbsp;&nbsp;anillo *(anel)* - bota - cartera - collar - corbata - gafas\
 &nbsp;&nbsp;&nbsp;gorra *(boné)* - sombrero - zapatos - pantuflas - pañuelo *(lenço)*\
 &nbsp;&nbsp;&nbsp;paraguas - pendientes *(brincos)* - reloj *(relógio)*
+
+
+# Verbos
+
+| Persona |  |  | Presente de Indicativo |  |  |
+|---|---|---|---|---|---|
+| 1: Yo |  |  | Me ducho |  |  |
+| 2: Tu |  |  | Te duchas |  |  |
+| 3: El/Ella |  |  | Se duchas |   |  |
+| 1: Nosotros |  |  | Nos duchamos |  |  |
+| 2: Vosotros |  |  | Os ducháis |  |  |
+| 3: Ellos/Ellas |  |  | Se duchan |  |  |
