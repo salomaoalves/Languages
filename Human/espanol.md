@@ -164,17 +164,17 @@ Puede tener algunas perífrasis verbales:\
 **Ex:**\
 &nbsp;&nbsp;&nbsp;- *Dentro de seis meses mi amiga **será** madre.*\
 &nbsp;&nbsp;&nbsp;- *El fin de semana **lloverá** en mi ciudad.*\
-&nbsp;&nbsp;&nbsp;-*\***Tendré** que trabajar hasta tarde.*
+&nbsp;&nbsp;&nbsp;-*'***Tendré** que trabajar hasta tarde.*
 
 
 ### Futuro Perfecto/Compuesto ---------------------------------------------------------------------------
 Indica una acción que aún sucederá en el futuro, pero que ciertamente terminará antes de otra acción.\
-También se usa para expresar sorpresa, desaprobación o indignación en exclamaciones; hacer suposiciones sobre el presente;.
+También se usa para expresar sorpresa, desaprobación o indignación en exclamaciones; hacer suposiciones sobre el presente;.\
 &nbsp;&nbsp;&nbsp; - el verbo **haber** *(futuro imperfecto indicativo)* + el verbo **principal** *(participio)*
 
-**Ex:** 
-&nbsp;&nbsp;&nbsp; - *Para el lunes, ya **habré entregado** el trabajo.*
-&nbsp;&nbsp;&nbsp; -*\***Habrase visto** semejante grosería!*
+**Ex:**\
+&nbsp;&nbsp;&nbsp; - *Para el lunes, ya **habré entregado** el trabajo.*\
+&nbsp;&nbsp;&nbsp; - *'**Habrase visto** semejante grosería!*
 
 
 ### Condicional Simple ---------------------------------------------------------------------------
@@ -185,7 +185,7 @@ Las raíces irregulares son lo mismo que el pretérito imperfecto.\
 &nbsp;&nbsp;&nbsp; - “Yo que tú” (Eu no seu lugar) + condicional simples: dar consejos
 
 **Ex:**
-&nbsp;&nbsp;&nbsp; - *\***Deberías** ser más puntual.*\
+&nbsp;&nbsp;&nbsp; - *'***Deberías** ser más puntual.*\
 &nbsp;&nbsp;&nbsp; - *La casa **sería** bonita, pero no me gustaba el color.*\
 &nbsp;&nbsp;&nbsp; - ¿**Podrías** decirme la horas?
 
@@ -195,15 +195,15 @@ Expresa una acción que ocurrirá en el futuro ya realizada en relación con una
 Expresar una acción no realizada en el pasado; Expresar situaciones irreales en oraciones condicionales en tiempo pasado.\
 &nbsp;&nbsp;&nbsp; - el verbo **haber** *(condicional simples)* + el verbo **principal** *(participio)*\
 
-**Ex:**
-&nbsp;&nbsp;&nbsp; - *\***Habrías** debido callarte.*
+**Ex:**\
+&nbsp;&nbsp;&nbsp; - *'***Habrías** debido callarte.*\
 &nbsp;&nbsp;&nbsp; - *No le habría dicho nada, pero ella me insultó y no pude resistirme.*
 
 
 ## Subjuntivo
 expresa posibilidad, deseo, suposición o duda
 
-### Presente
+### Presente ---------------------------------------------------------------------------
 Indica algún evento que aún no ha sucedido o puede no suceder, además de expresar un deseo, probabilidades y sentimientos.\
   - -ar: -e; -es; -e; -emos; -éis; -en
   - -er/ir: -a; -as; -a; -amos; -áis; -an
@@ -225,8 +225,8 @@ E -> IE | I o O -> UE | E -> I\
 &nbsp;&nbsp;&nbsp; - *Cuando llegue a casa, te **llamo**.*
 
 
-### Pretérito Imperfecto
-Indica ideas hipotéticas o hechos que pueden no ocurrir.\
+### Pretérito Imperfecto ---------------------------------------------------------------------------
+Indica ideas hipotéticas o hechos que pueden no ocurrir.
   - -ar: -ara; -as; -ara; -áramos; -rais; -ran
   - -ar: -se; -ses; -se; -ásemos; -seis; -sen
   - -er/ir: -iera; -ieras; -iera; -iéramos; -ierais; -ieran
@@ -242,9 +242,9 @@ O -> U | E -> I\
 com dos vocales seguidas \
 &nbsp;&nbsp;&nbsp;&nbsp;cambia la segunda a y\
 &nbsp; - (verbo - raíces + terminaciones)\
-&nbsp;&nbsp;saber - sup | poder - pud | poner - pus\
-&nbsp;&nbsp;haber - hub | caber - cup | tener - tuv\
-&nbsp;&nbsp;estar - estuv | andar - anduv | decir - dij
+&nbsp;&nbsp;&nbsp;saber - sup | poder - pud | poner - pus\
+&nbsp;&nbsp;&nbsp;haber - hub | caber - cup | tener - tuv\
+&nbsp;&nbsp;&nbsp;estar - estuv | andar - anduv | decir - dij
 
 **Ex:**\
 &nbsp;&nbsp;&nbsp; - *Quisiera ver unos pantalones.*\
@@ -252,7 +252,7 @@ com dos vocales seguidas \
 &nbsp;&nbsp;&nbsp; - *Fueras donde fueras, te acompañaríamos.*
 
 
-### Pretérito Perfecto
+### Pretérito Perfecto -----------------------------------------------------------------------
 Expresa un hecho dudoso o hipotético que pudo haber ocurrido en el pasado\
 &nbsp;&nbsp;&nbsp; - el verbo **haber** *(en presente subjuntivo)* + el verbo **principal** *(participio)*
 
@@ -262,7 +262,7 @@ Expresa un hecho dudoso o hipotético que pudo haber ocurrido en el pasado\
 &nbsp;&nbsp;&nbsp; - *No creo que Rapul se **haya ido** sin despedirse.*
 
 
-### Pretérito Pluscuamperfecto
+### Pretérito Pluscuamperfecto ------------------------------------------------------------------------
 Siempre indicará un evento en el pasado que no tuvo lugar\
 &nbsp;&nbsp;&nbsp; - el verbo **haber** *(en pretérito imperfecto subjuntivo)* + el verbo **principal** *(participio)*
 
@@ -276,13 +276,13 @@ Siempre indicará un evento en el pasado que no tuvo lugar\
 expresa órdenes, consejos, solicitudes y obligaciones\
 no tiene conjugación en primera persona del singular - yo
 
-### Afirmativo
+### Afirmativo --------------------------------------------------------------------
   - -ar: -a; -e; -emos; -ad; -en
   - -er: -e; -a; -amos; -ed; -an
   - -ir: -e; -a; -amos; -id; -an
 
 **Regular**\
-&nbsp;&nbsp;&nbsp;&nbsp;hay cambio en -ar/-er/-ir\
+&nbsp;&nbsp;&nbsp;&nbsp;hay cambio en -ar/-er/-ir
 
 **Irregular**\
 &nbsp;&nbsp;solo te afecta a ti\
@@ -293,13 +293,13 @@ no tiene conjugación en primera persona del singular - yo
 &nbsp;&nbsp;PONER -> pon\
 
 **Ex:**\
-&nbsp;&nbsp;&nbsp; - *\**Di** el nombre de las diferentes válvulas del corazón.*\
+&nbsp;&nbsp;&nbsp; - *'**Di** el nombre de las diferentes válvulas del corazón.*\
 &nbsp;&nbsp;&nbsp; - *Señores pasajeros, **abróchense** los cinturones.*\
 &nbsp;&nbsp;&nbsp; - *Lucía, **vigila** un momento a los niños.*
 
 
-### Negativo
-las formas coinciden con las del presente de subjuntivo\
+### Negativo ------------------------------------------------------------------------
+las formas coinciden con las del presente de subjuntivo
   - -ar: -e; -es; -e; -emos; -éis; -en
   - -er/ir: -a; -as; -a; -amos; -áis; -an
 
