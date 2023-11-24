@@ -458,7 +458,7 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 | Suyo(a)(s) | Su(s) |
 
 ### Interogativos
-&nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* 	*en la pregunta tiene acento
+&nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* &nbsp;&nbsp;*\*en la pregunta tiene acento*
 
 
 ## Preposiciones
