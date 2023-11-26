@@ -44,7 +44,7 @@
 | Perfect Continuous | had + been + verb -ing | have + been + verb -ing | will + have + been + verb -ing |
 
 
-### Present Simple
+### Present Simple ----------------------------------------------------------------------------------------
 use for things you do every day/week/year or things which are generally true or always happen\
 can use adverbs (before main verb and after be) and expressions (at the end of a sentence) of frequency\
 `verbs in the infinitive`
@@ -55,7 +55,7 @@ can use adverbs (before main verb and after be) and expressions (at the end of a
 &nbsp;&nbsp;I'm never *ill*.
 
 
-### Present Continuous
+### Present Continuous ------------------------------------------------------------------------------------
 use to things happening now or for temporary thing that are happening now or to describe a picture or for future arrangement (have fixed time or place set)\
 `verb to be + verb with -ing`
 
@@ -65,7 +65,7 @@ use to things happening now or for temporary thing that are happening now or to 
 &nbsp;&nbsp;I *am seeing* a friend tonight.
 
 
-### Present Perfect
+### Present Perfect ---------------------------------------------------------------------------------------
 use to talk about the recent past (not saying the exactly time) or to give news\
 in (?) and (-) sentences, use *yet* to ask if something has happened or say if it hasn’t happened\
 in (+) sentences, use to say that something happened very recently, use *already* to say something happened before now or earlier than expected\
@@ -79,7 +79,7 @@ use *for*/*since* to talk about action/states which started in the past and are 
 &nbsp;&nbsp;I’*ve worked* there since 2005. --- I’*ve lived* there for twenty years.
 
 
-### Present Perfect Continuous
+### Present Perfect Continuous -----------------------------------------------------------------------------------------------------------
 use when the action ended at a certain point in the past or that started in the past and still continues in the present\
 `have + been + verb with -ing`
 
@@ -87,7 +87,7 @@ use when the action ended at a certain point in the past or that started in the 
 &nbsp;&nbsp;You *have been going* to school by car.
 
 
-### Past Simple
+### Past Simple ------------------------------------------------------------------------------------------
 use to talk about finished action in the past\
 `main verb in simple past (for (?) and (-), verb in infinitive after did/didn’t)`
 
@@ -97,7 +97,7 @@ use to talk about finished action in the past\
 &nbsp;&nbsp;I *didn’t go* to the mall.
 
 
-### Past Continuous
+### Past Continuous --------------------------------------------------------------------------------------
 use to describe an action in progress at a specific moment in the past\
 `verb to be in past (was/were) + verb with -ing`
 
@@ -106,7 +106,7 @@ use to describe an action in progress at a specific moment in the past\
 &nbsp;&nbsp;You *were studying*.
 
 
-### Past Perfect
+### Past Perfect ----------------------------------------------------------------------------------------
 use when you already talking about the past and want to talk about an earlier past action (one must precede the other)\
 `had/hadn’t + verb in past participle`
 
@@ -115,7 +115,7 @@ use when you already talking about the past and want to talk about an earlier pa
 &nbsp;&nbsp;*Had* you *been* there before?
 
 
-### Past Perfect Continuous
+### Past Perfect Continuous --------------------------------------------------------------------------------
 use when the action was in progress in the past before sth happen\
 `had + been + verb with -ing`
 
@@ -123,7 +123,7 @@ use when the action was in progress in the past before sth happen\
 &nbsp;&nbsp;You *had been going* to school by car.
 
 
-### Future Simples
+### Future Simples -----------------------------------------------------------------------------------------
 use to make predictions, decisions, offers or promises\
 can use shall instead of will in questions\
 `will/won’t + verb in infinitive`
@@ -133,7 +133,7 @@ can use shall instead of will in questions\
 &nbsp;&nbsp;I *will help* you.
 
 
-### Future Continuous
+### Future Continuous ---------------------------------------------------------------------------------------
 use to describe an action in progress at a specific moment in the future\
 `will/won’t + be + verb with -ing`
 
@@ -142,7 +142,7 @@ use to describe an action in progress at a specific moment in the future\
 &nbsp;&nbsp;I *will be reading* Oz soon.
 
 
-### Future Perfect
+### Future Perfect -----------------------------------------------------------------------------------------
 use to indicate that sth will be finished at a specific moment in the future\
 can use the prepositions by and  in\
 `will/won’t + have + verb in participle`
@@ -151,7 +151,7 @@ can use the prepositions by and  in\
 &nbsp;&nbsp;He *will have gone* to school by car in one hour.
 
 
-### Future Perfect Continuous
+### Future Perfect Continuous --------------------------------------------------------------------------------
 use when the action already start and still happen in the future\
 `will/won’t + have + been + verb with -ing`
 
@@ -159,7 +159,7 @@ use when the action already start and still happen in the future\
 &nbsp;&nbsp;You *will have been going* to school by car.
 
 
-### Be going to
+### Be going to -------------------------------------------------------------------------------------------
 use to talk about future plans or intentions or make a prediction\
 is similar to present continuous (can use both)\
 `verb to be + going to + verb in infinitive`
@@ -185,11 +185,11 @@ with auxiliary and modal verbs use without to
 #### for 3rd person singular
 default -> add -s\
 consonant+y -> add -ies\
-after ch/ce/ge/sh -> add -es\
+after ch/ce/ge/sh -> add -es
 
 
 ### Past 
-**Regular Verbs use -ed rule**
+**Regular Verbs use -ed rule**\
 default -> add -ed\
 &nbsp;&nbsp;finish with ‘e’ -> add -d\
 &nbsp;&nbsp;finish with ‘y’ after a consonant -> replace ‘y’ with -ied\
@@ -200,7 +200,7 @@ default -> add -ed\
 
 ### Participle
 Regular Verb use -ed rule (same as Simple Past)\
-Irregular Verbs have other unique form\
+Irregular Verbs have other unique form
 
 
 ### Gerund
@@ -223,15 +223,15 @@ use to compare two people, things, places or actions\
 `as + adj/adv + as`
 
 **Comparative Adjectives**\
-&nbsp;&nbsp;1 syllable -> add -er &nbsp;&nbsp;**Ex:** shorter\
-&nbsp;&nbsp;2+ syllable -> more/less + adj &nbsp;&nbsp;**Ex:** more relaxed\
-&nbsp;&nbsp;consonant + y -> replace ‘y’ with -ier &nbsp;&nbsp;**Ex:** busier\
-&nbsp;&nbsp;1 vowel + 1 cons -> double cons and add -er &nbsp;&nbsp;**Ex:** bigger\
-&nbsp;&nbsp;there is irregulares &nbsp;&nbsp;**Ex:** better, worse, further
+&nbsp;&nbsp;1 syllable -> add -er &nbsp;&nbsp;**Ex:** *shorter*\
+&nbsp;&nbsp;2+ syllable -> more/less + adj &nbsp;&nbsp;**Ex:** *more relaxed*\
+&nbsp;&nbsp;consonant + y -> replace ‘y’ with -ier &nbsp;&nbsp;**Ex:** *busier*\
+&nbsp;&nbsp;1 vowel + 1 cons -> double cons and add -er &nbsp;&nbsp;**Ex:** *bigger*\
+&nbsp;&nbsp;there is irregulares &nbsp;&nbsp;**Ex:** *better*, *worse*, *further*
 
 **Comparative Adverbs**\
-regular -> more + adv &nbsp;&nbsp;**Ex:** more older\
-there is irregulares &nbsp;&nbsp;**Ex:** harder, better, worse
+regular -> more + adv &nbsp;&nbsp;**Ex:** *more older*\
+there is irregulares &nbsp;&nbsp;**Ex:** *harder*, *better*, *worse*
 
 **Ex:**\
 &nbsp;&nbsp;My brother is *older than* me.\
@@ -244,11 +244,11 @@ after superlative we us\
 `the + superlative adj/adv (usually use with ‘ever’)`
 
 **Superlative Adjectives**\
-&nbsp;&nbsp;1 syllable -> add -est &nbsp;&nbsp;**Ex:** coldest\
-&nbsp;&nbsp;2+ syllable -> most + adj &nbsp;&nbsp;**Ex:** most beautiful\
-&nbsp;&nbsp;consonant + y -> replace ‘y’ with -iest &nbsp;&nbsp;**Ex:** prettiest\
-&nbsp;&nbsp;1 vowel + 1 cons -> double cons and add -est &nbsp;&nbsp;**Ex:** hottest\
-&nbsp;&nbsp;there is irregulares &nbsp;&nbsp;**Ex:** best, worst, furthest
+&nbsp;&nbsp;1 syllable -> add -est &nbsp;&nbsp;**Ex:** *coldest*\
+&nbsp;&nbsp;2+ syllable -> most + adj &nbsp;&nbsp;**Ex:** *most beautiful*\
+&nbsp;&nbsp;consonant + y -> replace ‘y’ with -iest &nbsp;&nbsp;**Ex:** *prettiest*\
+&nbsp;&nbsp;1 vowel + 1 cons -> double cons and add -est &nbsp;&nbsp;**Ex:** *hottest*\
+&nbsp;&nbsp;there is irregulares &nbsp;&nbsp;**Ex:** *best*, *worst*, *furthest*
 
 **Ex:**\
 &nbsp;&nbsp;I have *the biggest* arm.\
@@ -258,9 +258,9 @@ after superlative we us\
 
 ## Conditionals
 ### First Conditional
-*if + present:* use to talk about a possible situation, and can use imperative or ‘can’ + infinitive\
+**if + present:** use to talk about a possible situation, and can use imperative or ‘can’ + infinitive\
 &nbsp;&nbsp;`if + verb in present, will/won’t + verb in infinitive`\
-*‘ll/won’t + verb:* use to talk about the consequence\
+**‘ll/won’t + verb:** use to talk about the consequence\
 &nbsp;&nbsp;`will/won’t + verb in infinitive if + verb in present`
 
 **Ex:**\
@@ -282,11 +282,11 @@ after superlative we us\
 
 ## Others
 ### Questions
-ASI - Auxiliary, Subject, Infinitive\
-QUASI - Question Word, Auxiliary, Subject, Infinitive\
-QASI* - Question Word, Subject, Infinitive\
 Question Words: Where, When and What\
-*/* the question word need to be the subject of the verb*
+**ASI** Auxiliary, Subject, Infinitive\
+**QUASI** Question Word, Auxiliary, Subject, Infinitive\
+**QASI\*** Question Word, Subject, Infinitive\
+*\* the question word need to be the subject of the verb*
 
 **Ex:**\
 &nbsp;&nbsp;Where does your sister work? *QUASI*\
