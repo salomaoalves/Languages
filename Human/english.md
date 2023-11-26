@@ -34,7 +34,7 @@
 ## Verb Tense
 ### Rules
 
-![image](./img/eng_verb_tense.png)
+![image](../img/eng_verb_tense.png)
 
 |  | Past | Present | Future |
 |---|---|---|---|
@@ -142,7 +142,7 @@ use to describe an action in progress at a specific moment in the future\
 &nbsp;&nbsp;I *will be reading* Oz soon.
 
 
-### Future Perfect -----------------------------------------------------------------------------------------
+### Future Perfect -------------------------------------------------------------------------------------------
 use to indicate that sth will be finished at a specific moment in the future\
 can use the prepositions by and  in\
 `will/won’t + have + verb in participle`
@@ -159,7 +159,7 @@ use when the action already start and still happen in the future\
 &nbsp;&nbsp;You *will have been going* to school by car.
 
 
-### Be going to -------------------------------------------------------------------------------------------
+### Be going to ----------------------------------------------------------------------------------------------
 use to talk about future plans or intentions or make a prediction\
 is similar to present continuous (can use both)\
 `verb to be + going to + verb in infinitive`

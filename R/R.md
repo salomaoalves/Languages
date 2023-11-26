@@ -96,7 +96,7 @@ POSIXlt store date/time as a list with elements for second, minute, hour, day, m
     structure( c(1127056501,1104295502), class=c(‘POSIXlt’, ‘POSIXct’) )  # From integer to POSIXlt/ct
     strptime('16/Oct/2005:07:51:00', format='%d/%b/%Y:%H:%M:%S', tz=’PDT’) # Inputting dates
 
-![image](./Languages/img/rDate.png)
+![image](../img/rDate.png)
 
 ## Data Types
     is.type(var) # check data
