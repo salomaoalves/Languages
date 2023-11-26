@@ -34,7 +34,7 @@
 ## Verb Tense
 ### Rules
 
-![image](./Languages/img/eng_verb_tense.png)
+![image](./img/eng_verb_tense.png)
 
 |  | Past | Present | Future |
 |---|---|---|---|
@@ -79,7 +79,7 @@ use *for*/*since* to talk about action/states which started in the past and are 
 &nbsp;&nbsp;I’*ve worked* there since 2005. --- I’*ve lived* there for twenty years.
 
 
-### Present Perfect Continuous -----------------------------------------------------------------------------------------------------------
+### Present Perfect Continuous -----------------------------------------------------------------------------
 use when the action ended at a certain point in the past or that started in the past and still continues in the present\
 `have + been + verb with -ing`
 
@@ -87,7 +87,7 @@ use when the action ended at a certain point in the past or that started in the 
 &nbsp;&nbsp;You *have been going* to school by car.
 
 
-### Past Simple ------------------------------------------------------------------------------------------
+### Past Simple --------------------------------------------------------------------------------------------
 use to talk about finished action in the past\
 `main verb in simple past (for (?) and (-), verb in infinitive after did/didn’t)`
 
@@ -97,7 +97,7 @@ use to talk about finished action in the past\
 &nbsp;&nbsp;I *didn’t go* to the mall.
 
 
-### Past Continuous --------------------------------------------------------------------------------------
+### Past Continuous -----------------------------------------------------------------------------------------
 use to describe an action in progress at a specific moment in the past\
 `verb to be in past (was/were) + verb with -ing`
 
@@ -106,7 +106,7 @@ use to describe an action in progress at a specific moment in the past\
 &nbsp;&nbsp;You *were studying*.
 
 
-### Past Perfect ----------------------------------------------------------------------------------------
+### Past Perfect --------------------------------------------------------------------------------------------
 use when you already talking about the past and want to talk about an earlier past action (one must precede the other)\
 `had/hadn’t + verb in past participle`
 
