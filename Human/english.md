@@ -283,15 +283,10 @@ after superlative we us\
 ## Others
 ### Questions
 Question Words: Where, When and What\
-**ASI** Auxiliary, Subject, Infinitive\
-**QUASI** Question Word, Auxiliary, Subject, Infinitive\
-**QASI\*** Question Word, Subject, Infinitive\
+**ASI** Auxiliary, Subject, Infinitive &nbsp;&nbsp;**Ex:** Where does your sister work?\
+**QUASI** Question Word, Auxiliary, Subject, Infinitive &nbsp;&nbsp;**Ex:** Are you hungry?\
+**QASI\*** Question Word, Subject, Infinitive &nbsp;&nbsp;**Ex:** Who painted Mr. Clark?\
 *\* the question word need to be the subject of the verb*
-
-**Ex:**\
-&nbsp;&nbsp;Where does your sister work? *QUASI*\
-&nbsp;&nbsp;Are you hungry? *ASI*\
-&nbsp;&nbsp;Who painted Mr. Clark? *QASI*
 
 
 ### Passive Voice
