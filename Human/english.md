@@ -27,10 +27,27 @@
         - [Passive Voice](#passive-voice)
         - [Phrasal Verbs](#phrasal-verbs)
         - [Reported/Indirect Speech](#reported/indirect-speech)
-2. [Key Words](#key-words)
+2. [Others](#others)
     - [Time Sequencers](#time-sequencers)
-    - [](#)
-3. [Vocabulary](#vocabulary)
+    - [Relative Clauses](#relative-clauses)
+    - [Quantifiers](#quantifiers)
+    - [Obligations/Advice](#obligations/advice)
+    - [Possibility](#possibility)
+    - [Adverbs](#adverbs)
+    - [Article](#article)
+    - [Prepositions](#prepositions)
+    - [Possessive Adjectives](#possessive-adjectives)
+    - [Pronouns](#pronouns)
+    - [Expressing Movement](#expressing-movement)
+3. [Key Words](#key-words)
+    - [Some…, Any…, No… & Every…](#some…,-any…,-no…-&every…)
+    - [used to / didn’t use to](#used-to-/-didn’t-use-to)
+    - [So & Neither](#So-&-Neither)
+    - [There is | are](#there-is-|-are)
+    - [Make | Do](#make-|-do)
+    - [What | Which](#what-|-which)
+    - [Get](#get)
+4. [Vocabulary](#vocabulary)
 
 
 # Grammar
@@ -327,6 +344,212 @@ often introduce with *said* (can’t use with an object and pronoun) or *tell* (
 
 # Key Words
 ## Time Sequencers
+**WHEN:** use to join two action\
+&nbsp;&nbsp;**Ex:** I was watching TV *when* the phone rang.\
+**BECAUSE:** use to express a reason\
+&nbsp;&nbsp;**Ex:** She was eating fast *because* she was in a hurry.\
+**SO:** use to express a result\
+&nbsp;&nbsp;**Ex:** She was in a hurry, *so* she was eating fast.\
+**BUT:** use to show a contrast, in the middle of a sentence\
+&nbsp;&nbsp;**Ex:** She tried to stop the car, *but* she hit the man.\
+**ALTHOUGH:** use to show a contrast - beginning or middle of a sentence\
+&nbsp;&nbsp;**Ex:** *Although* she tried to stop … - She tried to stop, *although* she …
+
+
+## Relative Clauses
+use to explain what a person, thing or place is or does\
+**WHO:** use for person\
+&nbsp;&nbsp;**Ex:** A cook is a person *who* makes food.\
+**WHICH:** use for things\
+&nbsp;&nbsp;**Ex:** Is that the book *which* everybody’s reading?\
+**WHERE:** use for places\
+&nbsp;&nbsp;**Ex:** A post office is a place *where* you can buy stamps.\
+**THAT:** use for person and things\
+&nbsp;&nbsp;**Ex:** A cook is a person *that* makes food. - Is that the book *that* everybody’s reading?
+
+
+## Quantifiers
+**Too**\
+&nbsp;&nbsp;verb + too much\
+&nbsp;&nbsp;too much + uncountable noun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** I have *too much work*.\
+&nbsp;&nbsp;too many + countable noun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** I eat *too many cakes*.\
+&nbsp;&nbsp;too + adjective&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** I’m *too tired*.
+
+**Enough**\
+&nbsp;&nbsp;enough + noun *all that is necessary*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** I *drink enough* water.\
+&nbsp;&nbsp;verb + enough *with no object*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** She doesn’t *sleep enough*.\
+&nbsp;&nbsp;adj/adv + enough&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** My fridge isn’t *big enough*.
+
+
+## Obligations/Advice
+`word + verb in infinitive`
+**have to**\
+use to talk about rules and obligations, normally a general one\
+&nbsp;&nbsp;**Ex:** I *have to* get up at seven every day.
+
+**don’t have to**\
+use to say that there is no obligations, or it is not necessary\
+use ‘do/does’ in ? and - sentences\
+&nbsp;&nbsp;**Ex:** He does*n’t have to* work on Sunday - *Do* I *have to* buy a book?
+
+**must**\
+use to talk about rules and obligations, normally a personal one\
+&nbsp;&nbsp;**Ex:** You *must* do your work tonight.
+
+**mustn't**\
+use to say something is prohibited\
+&nbsp;&nbsp;**Ex:** She *mustn’t* leave her begs here.
+
+**should/shouldn’t or ought to/ought not to**\
+use to give somebody advice or say what you think is right to do\
+often use ‘I think you should …’\
+&nbsp;&nbsp;**Ex:** You *should* go home. - He *shouldn’t* work so hard. - *I think you should* leave.
+
+
+## Possibility
+use to say that perhaps you will/won’t do something\
+`might/might not + verb in infinitive`\
+`may/may not + verb in infinitive`\
+&nbsp;&nbsp;**Ex:** We *might* have a picnic tomorrow. - I *might not* go to the party.
+
+
+## Adverbs
+**of Frequency**\
+&nbsp;&nbsp;(100%) always >> usually/generally >> frequently >> often >> sometimes >> occasionally >> seldom >> rarely >> never (0%)
+
+**of Place**\
+used to describe a location, direction and distance\
+&nbsp;&nbsp;Location: by the - in the - inside - here - nearby\
+&nbsp;&nbsp;Direction: past the - to the end of the - into the - abroad\
+&nbsp;&nbsp;Distance: from - away - off - apart
+
+
+## Article
+**The**\
+used to identify a definite noun\
+can use with singular and plural nouns\
+&nbsp;&nbsp;**Ex:** The student is American.
+
+**a - an**\
+used before singular countable nouns\
+*a* used before a consonant sound\
+*an* used before vowel sounds\
+&nbsp;&nbsp;**Ex:** I am a student. - This is an apple.
+
+
+## Prepositions
+**in**\
+&nbsp;&nbsp;Places: countries, cities, rooms, buildings and closed space\
+&nbsp;&nbsp;Time: month, season, years and times of day
+
+**on**\
+&nbsp;&nbsp;Places: transport and a surface\
+&nbsp;&nbsp;Times: dates and days
+
+**at**\
+&nbsp;&nbsp;Places: places that you do something\
+&nbsp;&nbsp;Times: time and festival periods
+
+**Others**\
+&nbsp;&nbsp;about - in front of - after - inside - against - instead of - before - near\
+&nbsp;&nbsp;behind - outside - beside - since - besides - with - during - without - for
+
+**Movement**\
+&nbsp;&nbsp;to - along - from - through - into - across - out of - towards - on - over - off - under - up - around - downs - past
+
+
+## Possessive Adjectives
+expresses a sense of ownership\
+use follow by a noun\
+`my - your - his - her - its - our - their`\
+&nbsp;&nbsp;**Ex:** It 's *my* book.
+
+## Pronouns
+**Possessive**\
+use to talk about possession; use ‘Whose’ to ask about possession\
+don’t use follow by with noun\
+`mine - yours - his - hers - its - ours - theirs`\
+&nbsp;&nbsp;**Ex:** It 's *mine*.
+
+**Subject**\
+indicate the subject of the action\
+`I - you - he - she - it - we - they`\
+&nbsp;&nbsp;**Ex:** *They* are beautiful. - *She* is amazing.
+
+**Object**\
+replaces nouns or noun phrases, avoids repetition\
+`me - you - him - her - it - us - them`\
+&nbsp;&nbsp;**Ex:** She gave *me* the keys. - There are a lot of books. I’m going to read *them*.
+
+**Demonstrative**\
+indicate which entities are being referred to and distinguish it\
+This (singular) and These (plural) for objects in close proximity\
+That (singular) and Those (plural) for objects at a distance\
+&nbsp;&nbsp;**Ex:** *Those* shoes are mine! - Is *this* your card?
+
+
+## Expressing Movement
+to express some movement\
+use a verb of movement and a preposition/adverb of movement\
+into/out of with noun, in/out without noun\
+&nbsp;&nbsp;**Ex:** The man went up the steps and into the church.
+
+
+
+# Key Words
+## Some…, Any…, No… & Every…
+use when you don’t know exactly who (...body, …one), what (..thing) or where (...where)
+
+**SOME..:** use with positive verb\
+&nbsp;&nbsp;**Ex:** Let’s go *somewhere* tonight!\
+**ANY…:** use with negative verb or question sentences\
+&nbsp;&nbsp;**Ex:** Did *anybody* phone?\
+**NO…:** in short answer or with positive verb (meaning is negative)\
+&nbsp;&nbsp;**Ex:** There’s *nothing* in the fridge.\
+**EVERY…:** use with positive/negative verb or question sentences\
+&nbsp;&nbsp;**Ex:** I am seeing *everybody*.
+
+
+## used to / didn’t use to
+use to talk about thing that happened repeatedly or were true for a long time period in the past, but are usually not true now\
+used to / didn’t use to + verb in infinitive\
+&nbsp;&nbsp;**Ex:** My kid didn’t use to eat fruit, now he eats. - Did you used to work there?
+
+
+## So & Neither
+use to say you have something in common with somebody\
+in (+) sentence use so\
+in (-) sentence use neither\
+`so/neither + auxiliar + I`\
+&nbsp;&nbsp;**Ex:** So do I. - Neither am I.
+
+
+## There is | are
+used to say that somethings exists\
+‘there is’ -> singular\
+‘there are’ -> plural\
+&nbsp;&nbsp;**Ex:** *There is* a book on the table. - *Are there* two dogs in that house?
+
+
+## Make | Do
+**make:** when we create or construct something\
+&nbsp;&nbsp;a mistake/noise; an exam/exercise; homework/friends; lunch/plans
+
+**do:** for other activities, general ones\
+&nbsp;&nbsp;a course; a phone call; housework; sport/exercise
+
+
+## What | Which
+*what* is general\
+*which* is always especifics
+
+## Get
+become + adjective/past participle&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get angry - get married\
+&nbsp;&nbsp;become + comparative&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get better - get colder\
+&nbsp;&nbsp;buy/obtain&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get a job - get a ticket\
+&nbsp;&nbsp;with prepositions *phrasal verbs*&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get on/off a bus - get up\
+&nbsp;&nbsp;receive&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get an email - get a text\
+&nbsp;&nbsp;arrive&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** get home - get to school
 
 
 
