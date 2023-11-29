@@ -342,7 +342,7 @@ often introduce with *said* (can’t use with an object and pronoun) or *tell* (
 
 
 
-# Key Words
+# Others
 ## Time Sequencers
 **WHEN:** use to join two action\
 &nbsp;&nbsp;**Ex:** I was watching TV *when* the phone rang.\
@@ -383,6 +383,7 @@ use to explain what a person, thing or place is or does\
 
 ## Obligations/Advice
 `word + verb in infinitive`
+
 **have to**\
 use to talk about rules and obligations, normally a general one\
 &nbsp;&nbsp;**Ex:** I *have to* get up at seven every day.
