@@ -5,10 +5,11 @@
 4. [Working with Date](#orking-with-date)
 5. [Data Types](#data-types)
 6. [Operators](#operators)
-7. [Structures](#structures)
-8. [DataFrame Functions](#dataframe-functions)
-9. [Packets](#packets)
-10. [Graphics](#graphics)
+7. [OOP](#oop)
+8. [Structures](#structures)
+9. [DataFrame Functions](#dataframe-functions)
+10. [Packets](#packets)
+11. [Graphics](#graphics)
 
 
 *Lexical Scope determines where but not when to look for variable values*\

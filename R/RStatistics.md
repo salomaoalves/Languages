@@ -1,7 +1,6 @@
 # Table of Contents
-1. [Data Clean](#data-clean)
 1. [Qualitative Stats](#qualitative-stats)
-2. [Quantitative Stats](#quantitativestats)
+2. [Quantitative Stats](#quantitative-stats)
 3. [Association and Correlation](#association-and-correlation)
 4. [Combinatorial](#combinatorial)
 5. [Distribution](#distribution)
