@@ -624,9 +624,9 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 
 # Verbos
 
-ChatGPT command to create a table for a random verbo:
+ChatGPT comando para crear una tabla para un verbo XXX aleatorio, aunque el comando está en portugués, la tabla de salida tiene el texto en español:
 
-  agora, criar uma tabela da flexão do verbo ir para todos os 13 tempos verbais apresentados acima (serão as colunas), as linhas serão as personas\
+  agora, criar uma tabela da flexão do verbo XXX para todos os 13 tempos verbais apresentados acima (serão as colunas), as linhas serão as personas\
   colocar na formatação mardown\
   na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
 
