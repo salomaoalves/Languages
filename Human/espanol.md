@@ -624,11 +624,11 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 
 # Verbos
 
-| Persona |  |  | Presente de Indicativo |  |  |
-|---|---|---|---|---|---|
-| 1: Yo |  |  | Me ducho |  |  |
-| 2: Tu |  |  | Te duchas |  |  |
-| 3: El/Ella |  |  | Se duchas |   |  |
-| 1: Nosotros |  |  | Nos duchamos |  |  |
-| 2: Vosotros |  |  | Os ducháis |  |  |
-| 3: Ellos/Ellas |  |  | Se duchan |  |  |
+| Persona   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional |
+|-----------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|
+| Yo        | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        |
+| Tú        | vas      | has ido             | ibas                  | fuiste                | habías ido                 | irás   | irías       |
+| Él/Ella   | va       | ha ido              | iba                   | fue                   | había ido                  | irá    | iría        |
+| Nosotros/Nosotras | vamos | hemos ido | íbamos | fuimos | habíamos ido | iremos | iríamos |
+| Vosotros/Vosotras | vais | habéis ido | ibais | fuisteis | habíais ido | iréis | iríais |
+| Ellos/Ellas | van | han ido | iban | fueron | habían ido | irán | irían |
