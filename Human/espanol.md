@@ -47,6 +47,23 @@
 5. [Verbos](#verbos)
 
 
+Modo Verbal | Tiempo Verbal | Descripción | Ejemplo
+--- | --- | --- | ---
+Indicativo | Presente | Acciones que ocurren en el momento presente. | Yo hablo español.
+Indicativo | Pretérito Perfecto | Acciones pasadas con relevancia en el presente. | Yo he comido demasiado.
+Indicativo | Pretérito Imperfecto | Acciones habituales o en progreso en el pasado. | Yo hablaba español cuando era niño.
+Indicativo | Pretérito Indefinido | Acciones pasadas que no tienen relación con el presente. | Yo comí en ese restaurante ayer.
+Indicativo | Pretérito Pluscuamperfecto | Acciones que ocurrieron antes de otra acción en el pasado. | Cuando llegué, tú ya habías salido.
+Indicativo | Futuro | Acciones que ocurrirán en el futuro. | Mañana estudiaré para el examen.
+Indicativo | Condicional | Acciones hipotéticas o posibles, a menudo utilizadas con otras condiciones. | Yo iría contigo si pudiera.
+Subjuntivo | Presente | Se utiliza para expresar deseos, dudas, incertidumbres o situaciones hipotéticas. | Espero que tú vengas a la fiesta.
+Subjuntivo | Pretérito Perfecto | Se utiliza para expresar deseos o situaciones hipotéticas en el pasado con relevancia en el presente. | Ojalá que hayas llegado a tiempo.
+Subjuntivo | Pretérito Imperfecto | Se utiliza para expresar deseos, dudas o situaciones hipotéticas en el pasado. | Si yo tuviera más dinero, viajaría más.
+Subjuntivo | Pretérito Pluscuamperfecto | Se utiliza para expresar deseos o situaciones hipotéticas en el pasado con relación a otro evento pasado. | Si hubiera estudiado más, habría aprobado.
+Imperativo | Imperativo Positivo | Ordenes, peticiones o instrucciones. | ¡Cállate!
+Imperativo | Imperativo Negativo | Se utiliza para prohibir o negar una acción. | No corras en el pasillo.
+
+
 # No Personales
 
 ### Infinitivo
