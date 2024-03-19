@@ -47,6 +47,9 @@
 5. [Verbos](#verbos)
 
 
+# No Personales
+
+### Resume Table
 Modo Verbal | Tiempo Verbal | Descripción | Ejemplo
 --- | --- | --- | ---
 Indicativo | Presente | Acciones que ocurren en el momento presente. | Yo hablo español.
@@ -62,9 +65,6 @@ Subjuntivo | Pretérito Imperfecto | Se utiliza para expresar deseos, dudas o si
 Subjuntivo | Pretérito Pluscuamperfecto | Se utiliza para expresar deseos o situaciones hipotéticas en el pasado con relación a otro evento pasado. | Si hubiera estudiado más, habría aprobado.
 Imperativo | Imperativo Positivo | Ordenes, peticiones o instrucciones. | ¡Cállate!
 Imperativo | Imperativo Negativo | Se utiliza para prohibir o negar una acción. | No corras en el pasillo.
-
-
-# No Personales
 
 ### Infinitivo
 Expresar una acción determinada y, en la oración, realizar la función del nombre.\
