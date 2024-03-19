@@ -624,11 +624,18 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 
 # Verbos
 
-| Persona   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
-|-----------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|---------------------|------------------------------|------------------------------------|------------------------------------------|----------------------|----------------------|
-| Yo        | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Ve                   | No vayas            |
-| Tú        | vas      | has ido             | ibas                  | fuiste                | habías ido                 | irás   | irías       | vayas               | hayas ido                   | fueras                             | hubieras ido                            | Ve                   | No vayas            |
+ChatGPT command to create a table for a random verbo:
+
+  agora, criar uma tabela da flexão do verbo ir para todos os 13 tempos verbais apresentados acima (serão as colunas), as linhas serão as personas\
+  colocar na formatação mardown\
+  na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
+
+| ir   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
+|------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|---------------------|------------------------------|------------------------------------|------------------------------------------|----------------------|----------------------|
+| Yo   | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Ve                   | No vayas            |
+| Tú   | vas      | has ido             | ibas                  | fuiste                | habías ido                 | irás   | irías       | vayas               | hayas ido                   | fueras                             | hubieras ido                            | Ve                   | No vayas            |
 | Él/Ella   | va       | ha ido              | iba                   | fue                   | había ido                  | irá    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Vaya                 | No vaya             |
 | Nosotros/Nosotras | vamos | hemos ido | íbamos | fuimos | habíamos ido | iremos | iríamos | vayamos | hayamos ido | fuéramos | hubiéramos ido | Vayamos | No vayamos |
 | Vosotros/Vosotras | vais | habéis ido | ibais | fuisteis | habíais ido | iréis | iríais | vayáis | hayáis ido | fuerais | hubierais ido | Id | No vayáis |
 | Ellos/Ellas | van | han ido | iban | fueron | habían ido | irán | irían | vayan | hayan ido | fueran | hubieran ido | Vayan | No vayan |
+
