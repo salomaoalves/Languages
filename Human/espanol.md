@@ -624,12 +624,14 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 
 # Verbos
 
-ChatGPT comando para crear una tabla para un verbo XXX aleatorio, aunque el comando está en portugués, la tabla de salida tiene el texto en español:
+### ChatGPT comando 
+para crear una tabla para un verbo XXX aleatorio, aunque el comando está en portugués, la tabla de salida tiene el texto en español:
 
-  agora, criar uma tabela da flexão do verbo XXX para todos os 13 tempos verbais apresentados acima (serão as colunas), as linhas serão as personas\
+  criar uma tabela da flexão do verbo XXX para todos os 13 tempos verbais apresentados acima (serão as colunas), as linhas serão as personas\
   colocar na formatação mardown\
   na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
 
+### Ejemplos
 | ir   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
 |------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|---------------------|------------------------------|------------------------------------|------------------------------------------|----------------------|----------------------|
 | Yo   | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Ve                   | No vayas            |
