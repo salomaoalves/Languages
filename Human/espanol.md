@@ -624,11 +624,11 @@ Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 
 # Verbos
 
-| Persona   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional |
-|-----------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|
-| Yo        | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        |
-| Tú        | vas      | has ido             | ibas                  | fuiste                | habías ido                 | irás   | irías       |
-| Él/Ella   | va       | ha ido              | iba                   | fue                   | había ido                  | irá    | iría        |
-| Nosotros/Nosotras | vamos | hemos ido | íbamos | fuimos | habíamos ido | iremos | iríamos |
-| Vosotros/Vosotras | vais | habéis ido | ibais | fuisteis | habíais ido | iréis | iríais |
-| Ellos/Ellas | van | han ido | iban | fueron | habían ido | irán | irían |
+| Persona   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
+|-----------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|---------------------|------------------------------|------------------------------------|------------------------------------------|----------------------|----------------------|
+| Yo        | voy      | he ido              | iba                   | fui                   | había ido                  | iré    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Ve                   | No vayas            |
+| Tú        | vas      | has ido             | ibas                  | fuiste                | habías ido                 | irás   | irías       | vayas               | hayas ido                   | fueras                             | hubieras ido                            | Ve                   | No vayas            |
+| Él/Ella   | va       | ha ido              | iba                   | fue                   | había ido                  | irá    | iría        | vaya                | haya ido                    | fuera                              | hubiera ido                             | Vaya                 | No vaya             |
+| Nosotros/Nosotras | vamos | hemos ido | íbamos | fuimos | habíamos ido | iremos | iríamos | vayamos | hayamos ido | fuéramos | hubiéramos ido | Vayamos | No vayamos |
+| Vosotros/Vosotras | vais | habéis ido | ibais | fuisteis | habíais ido | iréis | iríais | vayáis | hayáis ido | fuerais | hubierais ido | Id | No vayáis |
+| Ellos/Ellas | van | han ido | iban | fueron | habían ido | irán | irían | vayan | hayan ido | fueran | hubieran ido | Vayan | No vayan |
