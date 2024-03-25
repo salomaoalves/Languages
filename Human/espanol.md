@@ -342,6 +342,11 @@ las formas coinciden con las del presente de subjuntivo
 &nbsp;&nbsp;&nbsp;2ª - Vosotros(as)\
 &nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
 
+x | Singular | Plural
+1ª | Yo | Nosotros(as)
+2ª | Tú | Vosotros(as)
+3ª | Él, Ella, Usted | Ellos, Ellas, Ustedes
+
 *\*es segunda persona pero son conjugada como tercera*
 
 
