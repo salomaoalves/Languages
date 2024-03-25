@@ -629,6 +629,15 @@ para crear una tabla para un verbo XXX aleatorio, aunque el comando está en por
   colocar na formatação mardown\
   na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
 
+|          | Presente | Pretérito Imperfecto | Pretérito Indefinido | Futuro | Condicional Presente | Pretérito Perfecto Simple | Pretérito Perfecto Compuesto | Futuro Perfecto | Condicional Perfecto | Pretérito Pluscuamperfecto | Futuro Compuesto | Condicional Compuesto |
+|----------|----------|----------------------|-----------------------|--------|----------------------|---------------------------|------------------------------|------------------|----------------------|----------------------------|-------------------|-----------------------|
+| **yo**   | voy      | iba                  | fui                   | iré    | iría                 | fui                       | he ido                      | habré ido        | habría ido          | había ido                  | habré ido         | habría ido           |
+| **tú**   | vas      | ibas                 | fuiste                | irás   | irías                | fuiste                    | has ido                    | habrás ido       | habrías ido         | habías ido                 | habrás ido        | habrías ido          |
+| **él/ella/usted** | va | iba              | fue                   | irá    | iría                 | fue                       | ha ido                     | habrá ido        | habría ido          | había ido                  | habrá ido         | habría ido            |
+| **nosotros/nosotras** | vamos | íbamos    | fuimos                | iremos | iríamos              | fuimos                    | hemos ido                  | habremos ido     | habríamos ido       | habíamos ido               | habremos ido      | habríamos ido         |
+| **vosotros/vosotras** | vais   | ibais        | fuisteis              | iréis  | iríais               | fuisteis                  | habéis ido                | habréis ido      | habríais ido        | habíais ido                | habréis ido       | habríais ido          |
+| **ellos/ellas/ustedes** | van  | iban         | fueron                | irán   | irían                | fueron                    | han ido                   | habrán ido       | habrían ido         | habían ido                 | habrán ido        | habrían ido           |
+
 ### Ejemplos
 | ir   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
 |------|----------|---------------------|-----------------------|-----------------------|-----------------------------|--------|-------------|---------------------|------------------------------|------------------------------------|------------------------------------------|----------------------|----------------------|
