@@ -342,6 +342,12 @@ las formas coinciden con las del presente de subjuntivo
 &nbsp;&nbsp;&nbsp;2ª - Vosotros(as)\
 &nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
 
+
+**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
+&nbsp;&nbsp;&nbsp;1ª - Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
+&nbsp;&nbsp;&nbsp;2ª - Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
+&nbsp;&nbsp;&nbsp;3ª - Él, Ella, Usted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ellos, Ellas, Ustedes\*
+
 x | Singular | Plural
 1ª | Yo | Nosotros(as)
 2ª | Tú | Vosotros(as)
