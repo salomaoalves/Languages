@@ -343,9 +343,10 @@ las formas coinciden con las del presente de subjuntivo
 &nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
 
 
-&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
-1ª&nbsp;&nbsp;&nbsp;Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
-2ª&nbsp;&nbsp;&nbsp;Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
+&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
+1ª&nbsp;&nbsp;&nbsp;Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
+2ª&nbsp;&nbsp;&nbsp;Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
 3ª&nbsp;&nbsp;&nbsp;Él, Ella, Usted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ellos, Ellas, Ustedes\*
 
 x | Singular | Plural
