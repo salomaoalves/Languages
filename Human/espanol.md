@@ -332,36 +332,20 @@ las formas coinciden con las del presente de subjuntivo
 # Gramatica
 
 ## Personas
-**Singular**\
-&nbsp;&nbsp;&nbsp;1ª - Yo\
-&nbsp;&nbsp;&nbsp;2ª - Tú\
-&nbsp;&nbsp;&nbsp;3ª - Él, Ella, Usted\*
-
-**Plural**\
-&nbsp;&nbsp;&nbsp;1ª - Nosotros(as)\
-&nbsp;&nbsp;&nbsp;2ª - Vosotros(as)\
-&nbsp;&nbsp;&nbsp;3ª - Ellos, Ellas, Ustedes\*
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
-1ª&nbsp;&nbsp;&nbsp;Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
-2ª&nbsp;&nbsp;&nbsp;Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
+1ª&nbsp;&nbsp;&nbsp;Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
+2ª&nbsp;&nbsp;&nbsp;Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
 3ª&nbsp;&nbsp;&nbsp;Él, Ella, Usted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ellos, Ellas, Ustedes\*
-
-x | Singular | Plural
-1ª | Yo | Nosotros(as)
-2ª | Tú | Vosotros(as)
-3ª | Él, Ella, Usted | Ellos, Ellas, Ustedes
 
 *\*es segunda persona pero son conjugada como tercera*
 
 
 ## Artículos
-**Singular**\
-&nbsp;&nbsp;&nbsp;Masc: el - un\
-&nbsp;&nbsp;&nbsp;Feme: la - una\
-&nbsp;&nbsp;&nbsp;Neu: lo
+&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;**Plural**\
+Masc&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;los - unos\
+Feme&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;las - unas\
+Neu&nbsp;&nbsp;&nbsp;lo
 
 **Plural**\
 &nbsp;&nbsp;&nbsp;Masc: los - unos\
