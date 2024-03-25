@@ -561,6 +561,7 @@ to create a table for a random XXX verb, although the command is in Portuguese, 
     criar uma tabela da flexão do verbo ir para todos as 12 formas verbais da língua inglesa (serão as colunas), as linhas serão as personas
     colocar na formatação mardown
     o texto na tabela deve ser em inglês
+    colocar na ordem Infinitive, Present Simple, Present Continuous, Present Perfect, Present Perfect Continuous, Past Simple, Past Continuous, Past Perfect, Past Perfect Continuous, Future Simple, Future Continuous, Future Perfect, Future Perfect Continuous
 
 ### Ejemplos
 
