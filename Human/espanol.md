@@ -342,10 +342,10 @@ las formas coinciden con las del presente de subjuntivo
 
 
 ## Artículos
-&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;**Plural**\
-Masc&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;los - unos\
-Feme&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;las - unas\
-Neu&nbsp;&nbsp;&nbsp;lo
+**Singular**\
+&nbsp;&nbsp;&nbsp;Masc: el - un\
+&nbsp;&nbsp;&nbsp;Feme: la - una\
+&nbsp;&nbsp;&nbsp;Neu: lo
 
 **Plural**\
 &nbsp;&nbsp;&nbsp;Masc: los - unos\
