@@ -573,3 +573,44 @@ to create a table for a random XXX verb, although the command is in Portuguese, 
 | **We**   | go         | go             | are going          | have gone       | have been going          | went        | were going      | had gone     | had been going         | will go       | will be going    | will have gone | will have been going    |
 | **You**  | go         | go             | are going          | have gone       | have been going          | went        | were going      | had gone     | had been going         | will go       | will be going    | will have gone | will have been going    |
 | **They** | go         | go             | are going          | have gone       | have been going          | went        | were going      | had gone     | had been going         | will go       | will be going    | will have gone | will have been going    |
+
+# latex
+    Description for rule 1.
+    
+    \Begin{multicols}{2}
+    ## Good
+    ```c
+    int foo (void) 
+    {
+        int i;
+    }
+    ```
+    
+    ## Bad
+    ```c
+    int foo (void) {
+        int i;
+    }
+    ```
+    \End{multicols}
+
+# html
+Description for rule 1.
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
