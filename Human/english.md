@@ -558,10 +558,11 @@ used to say that somethings exists\
 
 to create a table for a random XXX verb, although the command is in Portuguese, the output table has the text in English:
 
-criar uma tabela da flexão do verbo ir para todos as 12 formas verbais da língua inglesa (serão as colunas), as linhas serão as personas
-colocar na formatação mardown
-na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
-o texto na tabela deve ser em inglês
+    criar uma tabela da flexão do verbo ir para todos as 12 formas verbais da língua inglesa (serão as colunas), as linhas serão as personas
+    colocar na formatação mardown
+    o texto na tabela deve ser em inglês
+
+### Ejemplos
 
 |  to go   | Infinitive | Present Simple | Present Continuous | Present Perfect | Present Perfect Continuous | Past Simple | Past Continuous | Past Perfect | Past Perfect Continuous | Future Simple | Future Continuous | Future Perfect | Future Perfect Continuous |
 |----------|------------|----------------|--------------------|-----------------|---------------------------|-------------|-----------------|--------------|-------------------------|---------------|-------------------|----------------|--------------------------|
