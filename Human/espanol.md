@@ -4,7 +4,7 @@
     - [Gerundio](#gerundio)
     - [Participio](#participio)
 2. [Modos Verbal y sus Tiempos Verbales](#modos-verbal-y-sus-tiempos-verbales)
-    - [Resume Table](#resume-table)
+    - [Resume](#resume)
     - [Indicativo](#indicativo)
         - [Presente de Indicativo](#presente-de-indicativo)
         - [Pretérito Perfecto Compuesto](#Pretérito-perfecto-compuesto)
@@ -70,7 +70,11 @@ terminados en -ado (habl**ar** -> habl**ado**) y en -ido (beb**er** -> beb**ido*
 
 # Modos Verbal y sus Tiempos Verbales
 
-## Resume Table
+## Resume
+Indicativo: expresa una acción como un hecho real, concreto y posible
+Subjuntivo: expresa posibilidad, deseo, suposición o duda
+Imperativo: expresa órdenes, consejos, solicitudes y obligaciones
+
 Modo Verbal | Tiempo Verbal | Descripción | Ejemplo
 --- | --- | --- | ---
 Indicativo | Presente | Acciones que ocurren en el momento presente. | Yo hablo español.
@@ -88,7 +92,6 @@ Imperativo | Imperativo Positivo | Ordenes, peticiones o instrucciones. | ¡Cál
 Imperativo | Imperativo Negativo | Se utiliza para prohibir o negar una acción. | No corras en el pasillo.
 
 ## Indicativo
-expresa una acción como un hecho real, concreto y posible\
 
 ### Presente de Indicativo ----------------------------------------------------------------------------------
 Indica una acción que ocurre en el momento de hablar o que se repite con frecuencia.
@@ -220,7 +223,6 @@ Expresar una acción no realizada en el pasado; Expresar situaciones irreales en
 
 
 ## Subjuntivo
-expresa posibilidad, deseo, suposición o duda
 
 ### Presente ---------------------------------------------------------------------------
 Indica algún evento que aún no ha sucedido o puede no suceder, además de expresar un deseo, probabilidades y sentimientos.\
@@ -292,7 +294,6 @@ Siempre indicará un evento en el pasado que no tuvo lugar\
 
 
 ## Imperativo
-expresa órdenes, consejos, solicitudes y obligaciones\
 no tiene conjugación en primera persona del singular - yo
 
 ### Afirmativo --------------------------------------------------------------------
@@ -332,8 +333,7 @@ las formas coinciden con las del presente de subjuntivo
 # Gramatica
 
 ## Personas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**\
 1ª&nbsp;&nbsp;&nbsp;Yo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros(as)\
 2ª&nbsp;&nbsp;&nbsp;Tú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vosotros(as)\
 3ª&nbsp;&nbsp;&nbsp;Él, Ella, Usted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ellos, Ellas, Ustedes\*
@@ -342,6 +342,11 @@ las formas coinciden con las del presente de subjuntivo
 
 
 ## Artículos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Preposición + Artículo**\
+Masc&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;los - unos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a + el = al\
+Fem&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;las - unas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de + el = del\
+Neu&nbsp;&nbsp;&nbsp;lo
+
 **Singular**\
 &nbsp;&nbsp;&nbsp;Masc: el - un\
 &nbsp;&nbsp;&nbsp;Feme: la - una\
@@ -349,16 +354,16 @@ las formas coinciden con las del presente de subjuntivo
 
 **Plural**\
 &nbsp;&nbsp;&nbsp;Masc: los - unos\
-&nbsp;&nbsp;&nbsp;Feme: las - unas\
+&nbsp;&nbsp;&nbsp;Feme: las - unas
 
 **Preposición + Artículo**\
 &nbsp;&nbsp;&nbsp;a + el = al\
 &nbsp;&nbsp;&nbsp;de + el = del
 
 
-## Los Desmontrativos
-se utilizan para indicar la ubicación de algo o alguien en relación con el remitente y/o receptor de un mensaje\
-cuando cumplen la función de pronombre, se suele acentuar como una forma de diferenciarlos de los adjetivos, pero eso se aplica sólo en los casos en que hay ambigüedad.
+## Los Desmontrativos (este - ese - aquel)
+Se utilizan para indicar la ubicación de algo o alguien en relación con el remitente y/o receptor de un mensaje\
+Cuando cumplen la función de pronombre, se suele acentuar como una forma de diferenciarlos de los adjetivos, pero eso se aplica sólo en los casos en que hay ambigüedad.
 
 ### Junto al remitente del mensaje
 Para referirse a algo o alguien que está cerca del remitente del mensaje.
@@ -367,10 +372,7 @@ Para referirse a algo o alguien que está cerca del remitente del mensaje.
 | Singular | este | esta | esto |
 | Plural | estes | estas | - |
 
-**Ex:**\
-*este es mi amigo juan*\
-*estos son mis colegas*\
-*no conozco a esta chica*
+**Ex:** *no conozco a **esta** chica -- **estos** son mis colegas -- **este** es mi amigo juan*
 
 ### Cerca del receptor del mensaje
 Para referirse a algo o alguien que está, en cierto modo, alejado del emisor del mensaje y cercano al receptor
@@ -379,10 +381,7 @@ Para referirse a algo o alguien que está, en cierto modo, alejado del emisor de
 | Singular | ese | esa | eso |
 | Plural | eses | esas | - |
 
-**Ex:**\
-*Dame ese bolígrafo, por favor.*\
-*Estos vestidos son muy bonitos.*\
-*¿Esta chica es tu hermana?*
+**Ex:** *Dame **ese** bolígrafo, por favor. -- **Estos** vestidos son muy bonitos. -- ¿**Esta** chica es tu hermana?*
 
 ### Lejos del remitente y del receptor del mensaje.
 Para referirse a algo o alguien que está lejos tanto del emisor como del receptor del mensaje.
@@ -391,10 +390,7 @@ Para referirse a algo o alguien que está lejos tanto del emisor como del recept
 | Singular | aquel | aquella | aquello |
 | Plural | aquellos | aquellas | - |
 
-**Ex:**\
-*Ese coche rojo es mío.*\
-*Estos son mis alumnos de portugués.*\
-*El viento cerró esa puerta.*
+**Ex:** *¿Qué es **aquello**? -- **Aquel** libro es muy interesante. -- **Aquellas** montañas son hermosas.*
 
 
 ## Muy vs Mucho
@@ -423,6 +419,33 @@ Mucho + Verbo\
 &nbsp;&nbsp; - *Comí mucho en la boda.*
 
 
+## Pronombres (pessoais - possessivos - interogativos)
+### Pessoais
+|  | Objeto Directo | Ejemplo | Onjeto Indirecto | Ejemplo |
+|---|---|---|---|---|
+| Yo | me || me ||
+| Tu | te || te ||
+| El/Ella | lo/la || le/se ||
+| Nosotros | nos || nos ||
+| Vosotros | os || os ||
+| Ellos/Ellas | los/las || les/se ||
+
+### Possessivos
+Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
+Átomos: se usa antes del sustantivo
+|  | Tónicos | Ejemplo | Átomos | Ejemplo |
+|---|---|---|---|---|
+| Yo | Mío(a)(s) || Mi(s) ||
+| Tu | Tuyo(a)(s) || Tu(s) ||
+| El/Ella | Suyo(a)(s) || Su(s) ||
+| Nosotros | Nuestro(a)(s) || Nuestro(a)(s) ||
+| Vosotros | Vuestro(a)(s) || Vuestro(a)(s) ||
+| Ellos/Ellas | Suyo(a)(s) || Su(s) ||
+
+### Interogativos
+&nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* &nbsp;&nbsp;*\*en la pregunta tiene acento*
+
+
 ## Acentuación
 ### Acentuación Prosódica
 es el énfasis que se le da a una determinada sílaba dentro de una palabra. A esta sílaba la llamamos “sílaba acentuada”.\
@@ -449,34 +472,7 @@ es el símbolo ortográfico con el que se representa el acento prosódico\
 es un signo ortográfico cuya función es diferenciar palabras que se escriben de la misma forma, pero pertenecen a clases gramaticales diferentes.
 
 
-## Pronombres
-### Pessoais
-|  | Objeto Directo | Onjeto Indirecto |
-|---|---|---|
-| Yo | me | me |
-| Tu | te | te |
-| El/Ella | lo/la | le/se |
-| Nosotros | nos | nos |
-| Vosotros | os | os |
-| Ellos/Ellas | los/las | les/se |
-
-### Possessivos
-Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
-Átomos: se usa antes del sustantivo
-| Tónicos | Átomos |
-|---|---|
-| Mío(a)(s) | Mi(s) |
-| Tuyo(a)(s) | Tu(s) |
-| Suyo(a)(s) | Su(s) |
-| Nuestro(a)(s) | Nuestro(a)(s) |
-| Vuestro(a)(s) | Vuestro(a)(s) |
-| Suyo(a)(s) | Su(s) |
-
-### Interogativos
-&nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* &nbsp;&nbsp;*\*en la pregunta tiene acento*
-
-
-## Preposiciones
+## Preposiciones (temporales - locativas - otras)
 ### Temporales
 &nbsp;&nbsp;&nbsp;a - ‘A las ocho de la mañana’\
 &nbsp;&nbsp;&nbsp;antes de - ‘Antes de las ocho de la mañana’\
