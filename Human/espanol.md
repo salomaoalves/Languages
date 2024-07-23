@@ -343,9 +343,9 @@ las formas coinciden con las del presente de subjuntivo
 
 ## Artículos
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Singular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plural**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Preposición + Artículo**\
-Masc&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;los - unos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a + el = al\
-Fem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;las - unas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de + el = del\
-Neu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lo
+Masc&nbsp;&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;los - unos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a + el = al\
+Fem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;las - unas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de + el = del\
+Neu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lo
 
 **Singular**\
 &nbsp;&nbsp;&nbsp;Masc: el - un\
@@ -372,7 +372,7 @@ Para referirse a algo o alguien que está cerca del remitente del mensaje.
 | Singular | este | esta | esto |
 | Plural | estes | estas | - |
 
-**Ex:** *No conozco a **esta** chica -- **Estos** son mis colegas -- **Este** es mi amigo juan*
+**Ex:** *No conozco a **esta** chica. -- **Estos** son mis colegas. -- **Este** es mi amigo juan.*
 
 ### Cerca del receptor del mensaje
 Para referirse a algo o alguien que está, en cierto modo, alejado del emisor del mensaje y cercano al receptor
