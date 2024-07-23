@@ -347,20 +347,6 @@ Masc&nbsp;&nbsp;&nbsp;&nbsp;el - un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 Fem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la - una&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;las - unas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de + el = del\
 Neu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lo
 
-**Singular**\
-&nbsp;&nbsp;&nbsp;Masc: el - un\
-&nbsp;&nbsp;&nbsp;Feme: la - una\
-&nbsp;&nbsp;&nbsp;Neu: lo
-
-**Plural**\
-&nbsp;&nbsp;&nbsp;Masc: los - unos\
-&nbsp;&nbsp;&nbsp;Feme: las - unas
-
-**Preposición + Artículo**\
-&nbsp;&nbsp;&nbsp;a + el = al\
-&nbsp;&nbsp;&nbsp;de + el = del
-
-
 ## Los Desmontrativos
 Se utilizan para indicar la ubicación de algo o alguien en relación con el remitente y/o receptor de un mensaje\
 Cuando cumplen la función de pronombre, se suele acentuar como una forma de diferenciarlos de los adjetivos, pero eso se aplica sólo en los casos en que hay ambigüedad.
