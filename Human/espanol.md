@@ -361,7 +361,7 @@ Neu&nbsp;&nbsp;&nbsp;&nbsp;lo
 &nbsp;&nbsp;&nbsp;de + el = del
 
 
-## Los Desmontrativos (este - ese - aquel)
+## Los Desmontrativos
 Se utilizan para indicar la ubicación de algo o alguien en relación con el remitente y/o receptor de un mensaje\
 Cuando cumplen la función de pronombre, se suele acentuar como una forma de diferenciarlos de los adjetivos, pero eso se aplica sólo en los casos en que hay ambigüedad.
 
@@ -419,7 +419,7 @@ Mucho + Verbo\
 &nbsp;&nbsp; - *Comí mucho en la boda.*
 
 
-## Pronombres (pessoais - possessivos - interogativos)
+## Pronombres
 ### Pessoais
 |  | Objeto Directo | Ejemplo | Onjeto Indirecto | Ejemplo |
 |---|---|---|---|---|
@@ -472,7 +472,7 @@ es el símbolo ortográfico con el que se representa el acento prosódico\
 es un signo ortográfico cuya función es diferenciar palabras que se escriben de la misma forma, pero pertenecen a clases gramaticales diferentes.
 
 
-## Preposiciones (temporales - locativas - otras)
+## Preposiciones
 ### Temporales
 &nbsp;&nbsp;&nbsp;a - ‘A las ocho de la mañana’\
 &nbsp;&nbsp;&nbsp;antes de - ‘Antes de las ocho de la mañana’\
