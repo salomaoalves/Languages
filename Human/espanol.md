@@ -409,24 +409,24 @@ Mucho + Verbo\
 ### Pessoais
 |  | Objeto Directo | Ejemplo | Onjeto Indirecto | Ejemplo |
 |---|---|---|---|---|
-| Yo | me || me ||
-| Tu | te || te ||
-| El/Ella | lo/la || le/se ||
-| Nosotros | nos || nos ||
-| Vosotros | os || os ||
-| Ellos/Ellas | los/las || les/se ||
+| Yo | me | Me ves en la tienda. | me | Me das un regalo. |
+| Tu | te | Te escucho hablar. | te | Te envio un mensaje. |
+| El/Ella | lo/la | Yo lo veo en el parque. | le/se | Le doy el libro. |
+| Nosotros | nos | Ellos nos ven en la fiesta. | nos | Nos cuentan un secreto. |
+| Vosotros | os | Yo os llamo por teléfono. | os | Os traigo comida. |
+| Ellos/Ellas | los/las | Yo los conozco bien. | les/se | Les doy las instrucciones. |
 
 ### Possessivos
 Tónicos: se usa después del sustantivo, lo acompaña en número y grado\
 Átomos: se usa antes del sustantivo
 |  | Tónicos | Ejemplo | Átomos | Ejemplo |
 |---|---|---|---|---|
-| Yo | Mío(a)(s) || Mi(s) ||
-| Tu | Tuyo(a)(s) || Tu(s) ||
-| El/Ella | Suyo(a)(s) || Su(s) ||
-| Nosotros | Nuestro(a)(s) || Nuestro(a)(s) ||
-| Vosotros | Vuestro(a)(s) || Vuestro(a)(s) ||
-| Ellos/Ellas | Suyo(a)(s) || Su(s) ||
+| Yo | Mío(a)(s) | El libro es mío. | Mi(s) | Tengo mi libro. |
+| Tu | Tuyo(a)(s) | La mochila es tuya. | Tu(s) | Buscas tu mochila. |
+| El/Ella | Suyo(a)(s) | El celular es suyo. | Su(s) | Él tiene su celular. |
+| Nosotros | Nuestro(a)(s) | El perro es nuestro. | Nuestro(a)(s) | Nosostros amamos nuestro perro. |
+| Vosotros | Vuestro(a)(s) | La casa es vuestra. | Vuestro(a)(s) | Vosotros tenéis vuestra casa. |
+| Ellos/Ellas | Suyo(a)(s) | La tarea es suya. | Su(s) | Ella tienen su tarea. |
 
 ### Interogativos
 &nbsp;&nbsp;&nbsp;qué - quién(es) - quál(es) - cuánto(a)(s) - (a)dónde - cómo - cuándo - por qué* &nbsp;&nbsp;*\*en la pregunta tiene acento*
@@ -607,10 +607,10 @@ es un signo ortográfico cuya función es diferenciar palabras que se escriben d
 ### ChatGPT comando 
 para crear una tabla para un verbo XXX aleatorio, aunque el comando está en portugués, la tabla de salida tiene el texto en español:
 
-  criar uma tabela da flexão do verbo XXX para todos os 13 tempos verbais do espanhol (serão as colunas), as linhas serão as personas
-  colocar na formatação mardown
-  na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado
-  colocar na ordem Presente, Preterito Perfecto, Pretérito Imperfecto, Pretérito Indefinido, Pretérito Pluscuamperfect, Futuro, Condicinal, Subjuntivo Presente, Subjuntivo Pretérito Perfecto, Subjuntivo Pretérito Imperfecto, Subjuntivo Pretérito Pluscuamperfecto, Imperativo Positivo, Imperativo Negativo
+criar uma tabela da flexão do verbo XXX para todos os 13 tempos verbais do espanhol (serão as colunas), as linhas serão as personas\
+  colocar na formatação mardown\
+na celula onde voce coloca Persona, colocar apenas o nome do verbo q está sendo flexionado\
+colocar na ordem Presente, Preterito Perfecto, Pretérito Imperfecto, Pretérito Indefinido, Pretérito Pluscuamperfect, Futuro, Condicinal, Subjuntivo Presente, Subjuntivo Pretérito Perfecto, Subjuntivo Pretérito Imperfecto, Subjuntivo Pretérito Pluscuamperfecto, Imperativo Positivo, Imperativo Negativo
 
 ### Ejemplos
 | ir   | Presente | Pretérito Perfecto | Pretérito Imperfecto | Pretérito Indefinido | Pretérito Pluscuamperfecto | Futuro | Condicional | Subjuntivo Presente | Subjuntivo Pretérito Perfecto | Subjuntivo Pretérito Imperfecto | Subjuntivo Pretérito Pluscuamperfecto | Imperativo Positivo | Imperativo Negativo |
