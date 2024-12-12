@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Grammar](#grammar)
+1. [Grammar Verbs](#grammar-verbs)
     - [Verb Tense](#verb-tense)
         - [Rules](#rules)
         - [Present Simple](#present-simple)
@@ -20,19 +20,17 @@
         - [Past](#past)
         - [Participle](#participle)
         - [Gerund](#gerund)
-    - [Comparative vs Superlative](#comparative-vs-superlative)
+2. [Grammar](#grammar)
     - [Conditionals](#conditionals)
-    - [Others](#others)
-        - [Questions](#questions)
-        - [Passive Voice](#passive-voice)
-        - [Phrasal Verbs](#phrasal-verbs)
-        - [Reported/Indirect Speech](#reported/indirect-speech)
-2. [Others](#others)
+    - [Reported/Indirect Speech](#reported/indirect-speech)
+    - [Passive Voice](#passive-voice)
+    - [Comparative vs Superlative](#comparative-vs-superlative)
+    - [Questions](#questions)
     - [Time Sequencers](#time-sequencers)
     - [Relative Clauses](#relative-clauses)
+    - [Phrasal Verbs](#phrasal-verbs)
     - [Quantifiers](#quantifiers)
-    - [Obligations/Advice](#obligations/advice)
-    - [Possibility](#possibility)
+    - [Modal Verbs](#modal-verbs)
     - [Adverbs](#adverbs)
     - [Article](#article)
     - [Prepositions](#prepositions)
@@ -50,7 +48,7 @@
 4. [Vocabulary](#vocabulary)
 
 
-# Grammar
+# Grammar Verbs
 ## Verb Tense
 ### Rules
 
@@ -236,6 +234,51 @@ after verb or prepositions\
 
 
 
+# Grammar
+
+## Conditionals
+### First Conditional
+**if + present:** use to talk about a possible situation, and can use imperative or ‘can’ + infinitive\
+&nbsp;&nbsp;`if + verb in present, will/won’t + verb in infinitive`\
+**‘ll/won’t + verb:** use to talk about the consequence\
+&nbsp;&nbsp;`will/won’t + verb in infinitive if + verb in present`
+
+**Ex:**\
+&nbsp;&nbsp;If I miss the bus, I’ll get a taxi.\
+&nbsp;&nbsp;I’ll get the taxi if I miss the bus.
+
+### Second Conditional
+**if + past:** used to talk about an imaginary or hypothetical future situation, and can use  ‘If I were you …’\
+`if + past, would/wouldn’t + verb in infinitive`\
+**‘d/wouldn’t + verb:** use to talk about the consequence, and can use ‘could + verb’\
+`would/wouldn’t + verb in infinitive if + past`
+
+**Ex:**\
+&nbsp;&nbsp;If a bull attacked me, I’d run away.\
+&nbsp;&nbsp;If we went by car, we could stop.
+
+
+## Reported/Indirect Speech
+use to report (tell someone) what another person said -- is always in the past\
+often introduce with *said* (can’t use with an object and pronoun) or *tell* (must use with an object)
+
+**Ex:**\
+&nbsp;&nbsp;He said he loved me.\
+&nbsp;&nbsp;He told me they would come.
+
+
+### Passive Voice
+invert the sentence, it’s unlike of active\
+use when it isn’t known or important who does or did the action\
+us ‘by’ to say who did\
+`verb to be + verb in participle`
+
+**Ex:**\
+&nbsp;&nbsp;Tippex *is*n’t *used* very much today.\
+&nbsp;&nbsp;The dishwasher *was invented* by Cochrane. *Passive Voice*\
+&nbsp;&nbsp;Cochrane invented the dishwasher. *Active Voice*
+
+
 ## Comparative vs Superlative
 ### Comparative
 use to compare two people, things, places or actions\
@@ -275,32 +318,6 @@ after superlative we us\
 &nbsp;&nbsp;He is *the best* player ever.
 
 
-
-## Conditionals
-### First Conditional
-**if + present:** use to talk about a possible situation, and can use imperative or ‘can’ + infinitive\
-&nbsp;&nbsp;`if + verb in present, will/won’t + verb in infinitive`\
-**‘ll/won’t + verb:** use to talk about the consequence\
-&nbsp;&nbsp;`will/won’t + verb in infinitive if + verb in present`
-
-**Ex:**\
-&nbsp;&nbsp;If I miss the bus, I’ll get a taxi.\
-&nbsp;&nbsp;I’ll get the taxi if I miss the bus.
-
-
-### Second Conditional
-**if + past:** used to talk about an imaginary or hypothetical future situation, and can use  ‘If I were you …’\
-`if + past, would/wouldn’t + verb in infinitive`\
-**‘d/wouldn’t + verb:** use to talk about the consequence, and can use ‘could + verb’\
-`would/wouldn’t + verb in infinitive if + past`
-
-**Ex:**\
-&nbsp;&nbsp;If a bull attacked me, I’d run away.\
-&nbsp;&nbsp;If we went by car, we could stop.
-
-
-
-## Others
 ### Questions
 Question Words: Where, When and What\
 **ASI** Auxiliary, Subject, Infinitive &nbsp;&nbsp;**Ex:** Where does your sister work?\
@@ -309,40 +326,6 @@ Question Words: Where, When and What\
 *\* the question word need to be the subject of the verb*
 
 
-### Passive Voice
-invert the sentence, it’s unlike of active\
-use when it isn’t known or important who does or did the action\
-us ‘by’ to say who did\
-`verb to be + verb in participle`
-
-**Ex:**\
-&nbsp;&nbsp;Tippex *is*n’t *used* very much today.\
-&nbsp;&nbsp;The dishwasher *was invented* by Cochrane. *Passive Voice*\
-&nbsp;&nbsp;Cochrane invented the dishwasher. *Active Voice*
-
-
-### Phrasal Verbs
-is the combination of two/three words to form a single semantic unit\
-some doesn’t have an object, other has but some can separate others cannot\
-when the object is a pronoun it always goes between the verb and particle\
-`verb + particle (preposition or adverb)`
-
-**Ex:**\
-&nbsp;&nbsp;What time do you *get up*?\
-&nbsp;&nbsp;*Turn* the TV *off*.
-
-
-### Reported/Indirect Speech
-use to report (tell someone) what another person said -- is always in the past\
-often introduce with *said* (can’t use with an object and pronoun) or *tell* (must use with an object)
-
-**Ex:**\
-&nbsp;&nbsp;He said he loved me.\
-&nbsp;&nbsp;He told me they would come.
-
-
-
-# Others
 ## Time Sequencers
 **WHEN:** use to join two action\
 &nbsp;&nbsp;**Ex:** I was watching TV *when* the phone rang.\
@@ -368,6 +351,17 @@ use to explain what a person, thing or place is or does\
 &nbsp;&nbsp;**Ex:** A cook is a person *that* makes food. - Is that the book *that* everybody’s reading?
 
 
+### Phrasal Verbs
+is the combination of two/three words to form a single semantic unit\
+some doesn’t have an object, other has but some can separate others cannot\
+when the object is a pronoun it always goes between the verb and particle\
+`verb + particle (preposition or adverb)`
+
+**Ex:**\
+&nbsp;&nbsp;What time do you *get up*?\
+&nbsp;&nbsp;*Turn* the TV *off*.
+
+
 ## Quantifiers
 **Too**\
 &nbsp;&nbsp;verb + too much\
@@ -381,8 +375,32 @@ use to explain what a person, thing or place is or does\
 &nbsp;&nbsp;adj/adv + enough&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ex:** My fridge isn’t *big enough*.
 
 
-## Obligations/Advice
+## Modal verbs
 `word + verb in infinitive`
+
+**can/cannot**\
+expresses ability or possibility; also used for asking permission\
+&nbsp;&nbsp;**Ex:** She *can* speak three languages. - *Can* I borrow your book? - *Can* I go to the toilet?
+
+**could/could not**\
+indicates past ability, possibility, or a polite request\
+&nbsp;&nbsp;**Ex:** He *could* run fast when he was younger. - *Could* you help me with this? - *Could* I talk with you?
+
+**would/would not**\
+expresses order, desire\
+&nbsp;&nbsp;**Ex:** *Would* you help me? - I *would* like a pizza.
+
+**may/may not**\
+expresses permission or possibility\
+&nbsp;&nbsp;**Ex:** You *may* leave early today. - It *may* rain later.
+
+**might/might not**\
+indicates a lower possibility than may\
+&nbsp;&nbsp;**Ex:** We *might* have a picnic tomorrow. - I *might not* go to the party.
+
+**shall**\
+used for future actions or making suggestions - more formal\
+&nbsp;&nbsp;**Ex:** I *shall* return by noon. - *Shall* we meet at 6 PM? 
 
 **have to**\
 use to talk about rules and obligations, normally a general one\
@@ -393,25 +411,19 @@ use to say that there is no obligations, or it is not necessary\
 use ‘do/does’ in ? and - sentences\
 &nbsp;&nbsp;**Ex:** He does*n’t have to* work on Sunday - *Do* I *have to* buy a book?
 
-**must**\
+**must/mustn't**\
 use to talk about rules and obligations, normally a personal one\
-&nbsp;&nbsp;**Ex:** You *must* do your work tonight.
+in negative form, use to say something is prohibited\
+&nbsp;&nbsp;**Ex:** You *must* do your work tonight. - She *mustn’t* leave her begs here.
 
-**mustn't**\
-use to say something is prohibited\
-&nbsp;&nbsp;**Ex:** She *mustn’t* leave her begs here.
-
-**should/shouldn’t or ought to/ought not to**\
+**should/shouldn’t**\
 use to give somebody advice or say what you think is right to do\
 often use ‘I think you should …’\
 &nbsp;&nbsp;**Ex:** You *should* go home. - He *shouldn’t* work so hard. - *I think you should* leave.
 
-
-## Possibility
-use to say that perhaps you will/won’t do something\
-`might/might not + verb in infinitive`\
-`may/may not + verb in infinitive`\
-&nbsp;&nbsp;**Ex:** We *might* have a picnic tomorrow. - I *might not* go to the party.
+**ought to/ought not to**\
+use to give somebody advice or say what you think is right to do\
+&nbsp;&nbsp;**Ex:** You *should* go home. - He *shouldn’t* work so hard. - *I think you should* leave.
 
 
 ## Adverbs
@@ -464,6 +476,7 @@ expresses a sense of ownership\
 use follow by a noun\
 `my - your - his - her - its - our - their`\
 &nbsp;&nbsp;**Ex:** It 's *my* book.
+
 
 ## Pronouns
 **Possessive**\
